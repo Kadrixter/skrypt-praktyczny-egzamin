@@ -1,0 +1,2914 @@
+[
+  {
+    "question": "1. Która warstwa modelu ISO/OSI jest związana z protokołem IP?",
+    "correct": "a"
+  },
+  {
+    "question": "2. Jaką ilość rzeczywistych danych można przesłać w czasie 1 s przez łącze synchroniczne o przepustowości 512 kbps, bez sprzętowej i programowej kompresji?",
+    "correct": "b"
+  },
+  {
+    "question": "3. Wskaż urządzenie, które należy wykorzystać, aby podłączyć dwa komputery do sieci Internet z dostępem przez sieć lokalną Ethernet, w której mamy do dyspozycji tylko jeden adres IP",
+    "correct": "a"
+  },
+  {
+    "question": "4. W celu zdalnego i przy tym bezpiecznego administrowania systemem Linux należy wykorzystać protokół",
+    "correct": "d"
+  },
+  {
+    "question": "5. Jakie połączenie z Internetem można udostępniać sieci lokalnej?",
+    "correct": "a"
+  },
+  {
+    "question": "6. Aby użytkownicy sieci lokalnej mogli przeglądać strony WWW protokołami HTTP i HTTPS, brama internetowa musi przepuszczać ruch na portach",
+    "correct": "b"
+  },
+  {
+    "question": "7. Podczas montażu sieci komputerowej, przy wierceniu otworów w ścianach, NIE NALEŻY używać",
+    "correct": "d"
+  },
+  {
+    "question": "8. Wybierz medium, które w sieciach komputerowych zapewnia najszybszą transmisję danych",
+    "correct": "c"
+  },
+  {
+    "question": "9. Karta sieciowa standardu Fast Ethernet pozwala na transfer danych z maksymalną szybkością",
+    "correct": "b"
+  },
+  {
+    "question": "10. W celu uzyskania w sieci lokalnej prędkości przesyłania danych 100 Mbps zastosowano karty sieciowe pracujące w standardzie Fast Ethernet, kabel standardu UTP w odpowiedniej kategorii oraz przełącznik (switch) pracujący w standardzie Fast Ethernet. Sieć taka jest wykonana w topologii",
+    "correct": "d"
+  },
+  {
+    "question": "11. Który adres protokołu IP w wersji 4 ma prawidłową strukturę?",
+    "correct": "a"
+  },
+  {
+    "question": "12. Przydzielaniem numerów IP w sieci zajmuje się serwer",
+    "correct": "a"
+  },
+  {
+    "question": "13. Aby usunąć opisaną usterkę, należy",
+    "correct": "b"
+  },
+  {
+    "question": "14. Zrzut ekranu przedstawia efekt polecenia arp -a. Jak należy zinterpretować tę informację?",
+    "correct": "c"
+  },
+  {
+    "question": "15. Usługa Windows XP Professional \"Mostek sieciowy\" pozwala na łączenie ze sobą",
+    "correct": "a"
+  },
+  {
+    "question": "16. Numer IP przypisany komputerowi umożliwia odbiorcy pakietu IP rozróżnienie identyfikatorów",
+    "correct": "b"
+  },
+  {
+    "question": "17. Polecenie tracert to narzędzie diagnostyczne, które ustala",
+    "correct": "a"
+  },
+  {
+    "question": "18. Włączenie usługi Udostępnienie połączenia internetowego w systemie Windows uruchamia automatyczne nadawanie adresów IP dla komputerów (hostów) z niej korzystających. W tym celu wykorzystywana jest usługa",
+    "correct": "c"
+  },
+  {
+    "question": "19. Komputery przenośne są z reguły wyposażone w bezprzewodowe sieci LAN. Ograniczenia ich użytkowania dotyczą emisji fal radiowych mogących zakłócać działanie innych, ważnych dla bezpieczeństwa, urządzeń",
+    "correct": "b"
+  },
+  {
+    "question": "20. Aby użytkownicy sieci lokalnej mogli przeglądać strony WWW protokołami HTTP i HTTPS, brama internetowa musi przepuszczać ruch na portach",
+    "correct": "b"
+  },
+  {
+    "question": "21. Na zdjęciu przedstawiono",
+    "correct": "a"
+  },
+  {
+    "question": "22. Zdjęcie przedstawia",
+    "correct": "b"
+  },
+  {
+    "question": "23. Które z wymienionych poleceń w systemie Windows XP służy do sprawdzenia bieżącej konfiguracji IP systemu Windows?",
+    "correct": "b"
+  },
+  {
+    "question": "24. Urządzenie ADSL służy do uzyskania połączenia",
+    "correct": "d"
+  },
+  {
+    "question": "25. Jednostką opisującą szybkość transmisji danych w sieciach komputerowych jest",
+    "correct": "c"
+  },
+  {
+    "question": "26. W systemie Windows XP na komputerze klienckim, plik \"hosts\" jest plikiem tekstowym, który służy do mapowania",
+    "correct": "b"
+  },
+  {
+    "question": "27. Do połączenia kilku komputerów w sieć lokalną można użyć",
+    "correct": "b"
+  },
+  {
+    "question": "28. Serwer DNS jest serwerem",
+    "correct": "d"
+  },
+  {
+    "question": "29. Numer IP zapisuje się w postaci czterech, oddzielonych od siebie kropkami",
+    "correct": "a"
+  },
+  {
+    "question": "30. Komputer ma dostęp do Internetu poprzez sieć lokalną. Wpisując w przeglądarce internetowej adres www.wp.pl użytkownik nie ma dostępu do strony WWW, natomiast wpisanie adresu IP np. 212.77.100.101 pozwala otworzyć tę stronę. Co może być tego przyczyną?",
+    "correct": "a"
+  },
+  {
+    "question": "31. Który z wymienionych adresów IP v.4 jest adresem klasy C?",
+    "correct": "b"
+  },
+  {
+    "question": "32. Adres IP v.4 ma długość",
+    "correct": "c"
+  },
+  {
+    "question": "33. Jakie polecenie w systemach Windows/Linux jest zwyczajowo stosowane do śledzenia trasy pakietów w sieciach IP?",
+    "correct": "c"
+  },
+  {
+    "question": "34. Jaki przewód należy zastosować do instalacji sieci w pomieszczeniach, w których występują silne pola zakłócające?",
+    "correct": "a"
+  },
+  {
+    "question": "35. W systemie Windows moduł odpowiedzialny za internetowe usługi informacyjne to",
+    "correct": "a"
+  },
+  {
+    "question": "36. Jaka jest szybkość transferu danych w sieciach FDDI (ang. Fiber Distributed Data Interface) opartych na technologii światłowodowej?",
+    "correct": "a"
+  },
+  {
+    "question": "37. Który z wtyków należy zamontować na przewodzie UTP Cat 5e, by podłączyć komputer do sieci?",
+    "correct": "c"
+  },
+  {
+    "question": "38. Maska podsieci /23 oznacza, że na pierwszych 23 bitach 32-cyfrowej liczby binarnej znajdują się jedynki, a na pozostałych zera. Jak będzie zapisana ta maska w systemie dziesiętnym, jeżeli każdym kolejnym 8 bitom odpowiada jedna liczba dziesiętna?",
+    "correct": "b"
+  },
+  {
+    "question": "39. Przedstawiono wynik uzyskany po uruchomieniu w systemie Windows polecenia IPCONFIG /ALL. Jak zostały skonfigurowane właściwości protokołu TCP/IP dla karty sieciowej?",
+    "correct": "b"
+  },
+  {
+    "question": "40. Który standard z grupy IEEE 802 jest związany z sieciami bezprzewodowymi, tzw. Wireless LAN?",
+    "correct": "c"
+  },
+  {
+    "question": "41. Jaki protokół służy do translacji pomiędzy publicznymi i prywatnymi adresami IP?",
+    "correct": "b"
+  },
+  {
+    "question": "42. Stacja robocza ma należeć do tej samej podsieci co serwer o adresie IP 192.168.10.150 i masce 255.255.255.192. Który z adresów IP należy ustawić we właściwościach protokołu TCP/IP karty sieciowej stacji roboczej?",
+    "correct": "c"
+  },
+  {
+    "question": "43. Urządzenie ADSL służy do uzyskania połączenia",
+    "correct": "d"
+  },
+  {
+    "question": "44. Komputer ma dostęp do Internetu poprzez sieć lokalną. Wpisując w przeglądarce internetowej adres www.wp.pl użytkownik nie ma dostępu do strony WWW, natomiast wpisanie adresu IP np. 212.77.100.101 pozwala otworzyć tę stronę. Co może być tego przyczyną?",
+    "correct": "a"
+  },
+  {
+    "question": "45. Wybierz medium, które w sieciach komputerowych zapewnia najszybszą transmisję danych",
+    "correct": "c"
+  },
+  {
+    "question": "46. Jaką liczbę adresów urządzeń sieciowych zapewnia do dyspozycji stosowanie klasy adresowej C w sieciach opartych na rodzinie protokołów TCP/IP?",
+    "correct": "c"
+  },
+  {
+    "question": "47. Który adres protokołu IP w wersji 4 ma prawidłową strukturę?",
+    "correct": "a"
+  },
+  {
+    "question": "48. Adres IP urządzenia umożliwiającego innym komputerom w sieci lokalnej dostęp do Internetu, to adres",
+    "correct": "d"
+  },
+  {
+    "question": "49. Skrót MAN oznacza sieć",
+    "correct": "a"
+  },
+  {
+    "question": "50. Architektura fizyczna sieci, zwana inaczej topologią fizyczną sieci komputerowych określa",
+    "correct": "a"
+  },
+  {
+    "question": "51. System umożliwiający przetłumaczenie nazwy komputera na adres IP w sieci to",
+    "correct": "b"
+  },
+  {
+    "question": "52. Rysunek przedstawia topologię",
+    "correct": "b"
+  },
+  {
+    "question": "53. Active Directory w systemach MS Windows Server 2000 i MS Windows Server 2003 to",
+    "correct": "d"
+  },
+  {
+    "question": "54. Przełącznik sieciowy standardu Fast Ethernet umożliwia transmisję danych z maksymalną prędkością",
+    "correct": "a"
+  },
+  {
+    "question": "55. W sieci lokalnej zainstalowano serwer, który ma za zadanie przydzielanie dynamicznego adresu IP. Jaka usługa musi być uruchomiona na tym serwerze?",
+    "correct": "d"
+  },
+  {
+    "question": "56. Użytkownik sieci lokalnej musi mieć możliwość korzystania z plików znajdujących się na serwerze sieciowym. W tym celu powinien",
+    "correct": "a"
+  },
+  {
+    "question": "57. W firmie zainstalowano pięć komputerów o adresach kart sieciowych podanych w tabeli. W związku z tym można wyróżnić",
+    "correct": "c"
+  },
+  {
+    "question": "58. W budynku biurowym należy podłączyć komputer do routera ADSL przy użyciu przewodu UTP Cat 5e. Maksymalna odległość pomiędzy komputerem, a routerem powinna wynosić",
+    "correct": "b"
+  },
+  {
+    "question": "59. Do bezpośredniego połączenia ze sobą dwóch komputerów w przewodowej sieci LAN należy użyć",
+    "correct": "d"
+  },
+  {
+    "question": "60. Przedstawiony stan ekranu terminala uzyskano w wyniku testu przeprowadzonego w systemie Windows. Pracownik serwisu uzyskał w ten sposób informację o:",
+    "correct": "a"
+  },
+  {
+    "question": "61. Bezprzewodowy dostęp komputera do sieci Internet poprzez tzw hotspot będzie możliwy po zainstalowaniu w nim karty sieciowej wyposażonej w",
+    "correct": "a"
+  },
+  {
+    "question": "62. Adres IP 158.75.60.16 należy do adresów",
+    "correct": "c"
+  },
+  {
+    "question": "63. Adresy IPv6 są liczbami",
+    "correct": "d"
+  },
+  {
+    "question": "64. W jakiej fizycznej topologii uszkodzenie jednej stacji roboczej zatrzyma działanie całej sieci?",
+    "correct": "d"
+  },
+  {
+    "question": "65. Technika ADSL umożliwia uzyskanie połączenia DSL",
+    "correct": "a"
+  },
+  {
+    "question": "66. Przesyłanie ruchu sieciowego poprzez router, które wiąże się ze zmianą źródłowych lub docelowych adresów IP, oznacza się skrótem",
+    "correct": "b"
+  },
+  {
+    "question": "67. Lokalnej podsieci komputerowej nadano adres IP 172.16.10.0/24. Komputer1 ma adres IP 172.16.0.10, komputer2 - 172.16.10.100, a komputer3 - 172.16.255.20. Który z komputerów należy do tej podsieci?",
+    "correct": "b"
+  },
+  {
+    "question": "68. Komputer ma pełnić rolę serwera sieci lokalnej, udostępniającego innym komputerom połączenie z Internetem przez podłączenie do gniazda sieci rozległej za pomocą kabla UTP Cat 5e. Obecnie komputer jest jedynie podłączony do switcha sieci lokalnej również kablem UTP Cat 5e, nie posiada innych gniazd 8P8C. O jaki element musi być on koniecznie rozbudowany?",
+    "correct": "b"
+  },
+  {
+    "question": "69. Który protokół wykorzystują komputery do powiadomienia rutera o chęci przyłączenia się lub odejścia z określonej grupy rozgłoszeniowej?",
+    "correct": "b"
+  },
+  {
+    "question": "70. Który standard realizacji sieci Ethernet, definiuje sieć zbudowaną na kablu koncentrycznym, odługości segmentu nie przekraczającym 185 m?",
+    "correct": "b"
+  },
+  {
+    "question": "71. Protokołem dostępu do sieci pakietowej z szybkością nie przekraczającą 2 Mbit/s jest protokół",
+    "correct": "d"
+  },
+  {
+    "question": "72. Który protokół wykorzystują komputery do powiadomienia rutera o członkostwie w danej grupie rozgłoszeniowej?",
+    "correct": "c"
+  },
+  {
+    "question": "73. W okablowaniu strukturalnym opartym na skrętce UTP kat. 6, należy stosować gniazda sieciowe typu",
+    "correct": "b"
+  },
+  {
+    "question": "74. Grupa, w której uprawnienia członków można przypisywać tylko w obrębie tej samej domeny, co domena nadrzędnej grupy lokalnej domeny, to grupa",
+    "correct": "a"
+  },
+  {
+    "question": "75. Który protokół komunikacyjny służy do transferu plików w układzie klient-serwer oraz może działać w dwóch trybach: aktywnym i pasywnym?",
+    "correct": "c"
+  },
+  {
+    "question": "76. Na rysunku przedstawiono sieć komputerową w topologii",
+    "correct": "c"
+  },
+  {
+    "question": "77. Jaki jest maksymalny rozmiar pojedynczego datagramu IPv4, którego wielkość liczona jest wraz z jego nagłówkiem?",
+    "correct": "a"
+  },
+  {
+    "question": "78. Którego protokołu należy użyć do odbioru poczty elektronicznej ze swojego serwera?",
+    "correct": "b"
+  },
+  {
+    "question": "79. Który protokół zapewnia szyfrowanie połączenia?",
+    "correct": "d"
+  },
+  {
+    "question": "80. Na rysunku przedstawiono przekrój kabla",
+    "correct": "c"
+  },
+  {
+    "question": "81. W adresie IP należącym do klasy A, wartość pierwszego bajtu jest zawarta w przedziale",
+    "correct": "d"
+  },
+  {
+    "question": "82. Które polecenie w systemie Windows przeznaczonym dla stacji roboczej, służy do ustawienia wymagań dotyczących logowania dla wszystkich kont użytkowników tej stacji roboczej",
+    "correct": "b"
+  },
+  {
+    "question": "83. Do prawidłowego działania telefonu VoIP konieczne jest skonfigurowanie adresu",
+    "correct": "d"
+  },
+  {
+    "question": "84. Które szyfrowanie stosowane w sieciach bezprzewodowych, jest najmniej odporne na łamanie haseł?",
+    "correct": "b"
+  },
+  {
+    "question": "85. Na rysunku przedstawiono urządzenie do",
+    "correct": "b"
+  },
+  {
+    "question": "86. Z jakim parametrem należy wywołać polecenie netstat, aby została wyświetlona statystyka interfejsu sieciowego (liczba wysłanych oraz odebranych bajtów i pakietów)?",
+    "correct": "c"
+  },
+  {
+    "question": "87. Zadaniem serwera plików w sieciach komputerowych LAN jest",
+    "correct": "a"
+  },
+  {
+    "question": "88. Którą konfigurację sieciową może mieć komputer należący do tej samej sieci LAN, co komputer o adresie 192.168.1.10/24?",
+    "correct": "a"
+  },
+  {
+    "question": "89. Profil mobilny zmieniany jest w profil obowiązkowy użytkownika po",
+    "correct": "d"
+  },
+  {
+    "question": "90. Rysunek przedstawia wynik testowania sieci komputerowej poleceniem",
+    "correct": "a"
+  },
+  {
+    "question": "91. Jaką postać ma adres IP 192.168.1.12 w zapisie binarnym?",
+    "correct": "d"
+  },
+  {
+    "question": "92. Polecenie dsadd umożliwia",
+    "correct": "c"
+  },
+  {
+    "question": "93. Konwencja zapisu ścieżki do udziału sieciowego zgodna z UNC (Universal Naming Convention) ma postać",
+    "correct": "d"
+  },
+  {
+    "question": "94. Jaki jest największy adres IP w podsieci 196.10.20.0/26?",
+    "correct": "c"
+  },
+  {
+    "question": "95. W wyniku polecenia ipconfig została wyświetlona konfiguracja przedstawiona na rysunku. Adres IP testowanej stacji roboczej ma postać",
+    "correct": "d"
+  },
+  {
+    "question": "96. Miarą podawaną w decybelach, będącą różnicą mocy sygnału przesyłanego w parze zakłócającej i sygnału wytworzonego w parze zakłócanej jest",
+    "correct": "b"
+  },
+  {
+    "question": "97. Rysunek przedstawia panel konfiguracyjny bezprzewodowego urządzenia dostępowego, który umożliwia",
+    "correct": "b"
+  },
+  {
+    "question": "98. Do sprawdzenia adresów MAC komputerów podłączonych do przełącznika, można użyć polecenia",
+    "correct": "c"
+  },
+  {
+    "question": "99. Urządzenie sieciowe most (ang. bridge):",
+    "correct": "c"
+  },
+  {
+    "question": "100. Narzędzie administracyjne wiersza polecenia umożliwiające testowanie i rozwiązywanie problemów z serwerami DNS to:",
+    "correct": "b"
+  },
+  {
+    "question": "101. Który protokół jest używany przez usługę VPN, w celu zhermetyzowania pakietów IP w sieci publicznej?",
+    "correct": "b"
+  },
+  {
+    "question": "102. Maska dla adresu IP 192.168.1.10/8 ma postać",
+    "correct": "b"
+  },
+  {
+    "question": "103. Które oznaczenie określa normę dotyczącą okablowania strukturalnego?",
+    "correct": "b"
+  },
+  {
+    "question": "104. Polecenie Gpresult",
+    "correct": "b"
+  },
+  {
+    "question": "105. Do zabezpieczenia systemów sieciowych przed atakami z zewnątrz należy użyć",
+    "correct": "c"
+  },
+  {
+    "question": "106. Na rysunku przedstawiono",
+    "correct": "b"
+  },
+  {
+    "question": "107. Która usługa polega na scentralizowanym zarządzaniu tożsamościami, uprawnieniami oraz obiektami w sieci?",
+    "correct": "d"
+  },
+  {
+    "question": "108. Na rysunku przedstawiono symbol graficzny",
+    "correct": "a"
+  },
+  {
+    "question": "109. Najwyższy poziom bezpieczeństwa sieci bezprzewodowej zapewni szyfrowanie",
+    "correct": "c"
+  },
+  {
+    "question": "110. Który z adresów IP jest adresem prywatnym?",
+    "correct": "d"
+  },
+  {
+    "question": "111. Jaki protokół odpowiada za zamianę adresów IP na adresy kontroli dostępu do nośnika (MAC)?",
+    "correct": "c"
+  },
+  {
+    "question": "112. Do śledzenia trasy datagramu IP do punktu docelowego służy polecenie",
+    "correct": "d"
+  },
+  {
+    "question": "113. Jaki jest maksymalny rozmiar pojedynczego datagramu IPv4, którego wielkość liczona jest wraz z jego nagłówkiem?",
+    "correct": "c"
+  },
+  {
+    "question": "114. Ile maksymalnie kanałów, z dostępnego spectrum kanałów standardu 802.11b, można wykorzystywać na terenie Polski?",
+    "correct": "d"
+  },
+  {
+    "question": "115. W technologii Ethernet 100BaseTX wymagane jest stosowanie skrętki",
+    "correct": "d"
+  },
+  {
+    "question": "116. Każdy kolejny router IP na trasie pakietu",
+    "correct": "d"
+  },
+  {
+    "question": "117. Przekazywanie żetonu (ang. token), występuje w sieci o strukturze fizycznej",
+    "correct": "d"
+  },
+  {
+    "question": "118. W sieci Ethernet 100BaseTX dla transmisji danych wykorzystywane są żyły kabla UTP dołączone do pinów",
+    "correct": "d"
+  },
+  {
+    "question": "119. Który standard wykorzystuje częstotliwość 5 GHz?",
+    "correct": "b"
+  },
+  {
+    "question": "120. System operacyjny nie zajmuje się",
+    "correct": "b"
+  },
+  {
+    "question": "121. Do cech pojedynczego konta użytkownika pracującego w systemie Windows Serwer należy",
+    "correct": "c"
+  },
+  {
+    "question": "122. Który z protokołów jest protokołem synchronizacji czasu?",
+    "correct": "d"
+  },
+  {
+    "question": "123. Rolą routera jest",
+    "correct": "b"
+  },
+  {
+    "question": "124. Wskaż domyślny port do przekazywania poleceń (command) serwera usługi FTP",
+    "correct": "d"
+  },
+  {
+    "question": "125. Jakie narzędzie należy wybrać, aby podłączyć żyły kablowe skrętki do gniazda Ethernet?",
+    "correct": "d"
+  },
+  {
+    "question": "126. Który protokół wykorzystywany jest przez polecenie ping?",
+    "correct": "a"
+  },
+  {
+    "question": "127. Jaki jest domyślny port serwera usługi WWW?",
+    "correct": "a"
+  },
+  {
+    "question": "128. W standardzie IEEE 802.3af dostarczanie energii elektrycznej do różnych urządzeń sieciowych opisuje technologia",
+    "correct": "a"
+  },
+  {
+    "question": "129. W firmowej sieci bezprzewodowej została uruchomiona usługa polegająca na tłumaczeniu nazw mnemonicznych. Jest to usługa",
+    "correct": "a"
+  },
+  {
+    "question": "130. Granicy dla domeny kolizyjnej nie wyznaczają porty urządzeń takich jak",
+    "correct": "d"
+  },
+  {
+    "question": "131. Jaki adres IP odpowiada nazwie mnemonicznej localhost?",
+    "correct": "c"
+  },
+  {
+    "question": "132. Sieć Ethernet pracuje w logicznej topologii",
+    "correct": "b"
+  },
+  {
+    "question": "133. Sieć o adresie 192.168.1.128/29 pozwala na podłączenie",
+    "correct": "a"
+  },
+  {
+    "question": "134. Translacją nazw domenowych na adresy sieciowe zajmuje się usługa",
+    "correct": "d"
+  },
+  {
+    "question": "135. Które z podanych oznaczeń określa, że jest to kabel typu skrętka posiadający podwójne ekranowanie?",
+    "correct": "b"
+  },
+  {
+    "question": "136. Podstawową funkcją serwera FTP jest",
+    "correct": "c"
+  },
+  {
+    "question": "137. Który protokół obsługuje rozproszone wysyłanie i pobieranie plików?",
+    "correct": "a"
+  },
+  {
+    "question": "138. W adresowaniu klasowym adres IP 74.100.7.8 należy do",
+    "correct": "a"
+  },
+  {
+    "question": "139. Wskaż poprawną postać maski",
+    "correct": "a"
+  },
+  {
+    "question": "140. Litera S w protokole FTPS oznacza zabezpieczanie przesyłanych danych poprzez",
+    "correct": "d"
+  },
+  {
+    "question": "141. Który z protokołów jest protokołem wykorzystywanym do zarządzania urządzeniami sieciowymi?",
+    "correct": "c"
+  },
+  {
+    "question": "142. Poprawny adres komputera dla maski 255.255.255.0, to adres",
+    "correct": "a"
+  },
+  {
+    "question": "143. Wskaż prawidłową postać maski podsieci",
+    "correct": "a"
+  },
+  {
+    "question": "144. AES (ang. Advanced Encryption Standard)",
+    "correct": "c"
+  },
+  {
+    "question": "145. Jaki protokół jest wykorzystywany podczas inicjacji sesji VoIP?",
+    "correct": "a"
+  },
+  {
+    "question": "146. Który z protokołów jest szyfrowanym protokołem terminalowym?",
+    "correct": "c"
+  },
+  {
+    "question": "147. Najszybszą możliwą transmisję danych w sieci bezprzewodowej umożliwia standard",
+    "correct": "a"
+  },
+  {
+    "question": "148. Urządzenie, które łączy segmenty sieci i przekazuje ramki między segmentami tej sieci z doborem portu urządzenia, do którego są przekazywane poszczególne ramki, to",
+    "correct": "b"
+  },
+  {
+    "question": "149. Na rysunku przedstawiono sieć o topologii",
+    "correct": "d"
+  },
+  {
+    "question": "150. Jaka przepływność definiuje standard sieci Ethernet IEEE 802.3z",
+    "correct": "a"
+  },
+  {
+    "question": "151. Norma IEEE 802.11b jest standardem sieci",
+    "correct": "d"
+  },
+  {
+    "question": "152. Standard transmisji Gigabit Ethernet opisuje norma",
+    "correct": "d"
+  },
+  {
+    "question": "153. Fast Ethernet to standard sieci przewodowej, umożliwiający transmisję danych z maksymalną prędkością",
+    "correct": "b"
+  },
+  {
+    "question": "154. Ile par przewodów jest przeznaczonych w standardzie 100Base-TX do transmisji danych w obu kierunkach?",
+    "correct": "b"
+  },
+  {
+    "question": "155. Norma EN 50167 dotyczy okablowania",
+    "correct": "b"
+  },
+  {
+    "question": "156. Która norma zawiera specyfikację parametrów transmisyjnych komponentów kategorii 5e?",
+    "correct": "d"
+  },
+  {
+    "question": "157. Protokołem pakietów użytkownika wykonującym usługę bezpołączeniowego dostarczania datagramów jest",
+    "correct": "d"
+  },
+  {
+    "question": "158. Na rysunku przedstawiono tylny panel",
+    "correct": "a"
+  },
+  {
+    "question": "159. Symbol graficzny przedstawiony na rysunku oznacza",
+    "correct": "c"
+  },
+  {
+    "question": "160. Sieci lokalne typu klient-serwer charakteryzują się tym, że",
+    "correct": "b"
+  },
+  {
+    "question": "161. Do której warstwy modelu ISO/OSI należy segmentowanie danych, komunikacja w trybie połączeniowym z wykorzystaniem protokołu TCP oraz komunikacja w trybie bezpołączeniowym z wykorzystaniem protokołu UDP?",
+    "correct": "d"
+  },
+  {
+    "question": "162. Wyznaczanie optymalnej trasy dla połączenia sieciowego to",
+    "correct": "a"
+  },
+  {
+    "question": "163. W sieci strukturalnej zalecane jest umieszczenie jednego punktu abonenckiego na powierzchni o wielkości",
+    "correct": "b"
+  },
+  {
+    "question": "164. Okablowanie pionowe w sieci strukturalnej łączy",
+    "correct": "d"
+  },
+  {
+    "question": "165. Które urządzenie służy do połączenia sieci lokalnej z siecią rozległą?",
+    "correct": "b"
+  },
+  {
+    "question": "166. Administrator zauważył, że w sieci LAN występuje duża liczba kolizji. Które urządzenie powinien zainstalować, aby podzielić sieć lokalną na mniejszy domeny kolizji?",
+    "correct": "c"
+  },
+  {
+    "question": "167. Która antena charakteryzuje się największym zyskiem energetycznym oraz umożliwia zestawienie połączenia na dużą odległość?",
+    "correct": "c"
+  },
+  {
+    "question": "168. Oblicz koszt brutto kabla UTP Cat 6 użytego do połączenia 5 punktów abonenckich z punktem dystrybucyjnym, wiedząc, że średnia długość pomiędzy punktem abonenckim a punktem dystrybucyjnym wynosi 8 m oraz że cena brutto 1 m kabla wynosi 1 zł. Przy obliczeniach należy uwzględnić zapas 2m kabla na każdy punkt abonencki.",
+    "correct": "d"
+  },
+  {
+    "question": "169. Który typ kabla należy zastosować do podłączenia komputera w pomieszczeniu z zakłóceniami elektromagnetycznymi?",
+    "correct": "d"
+  },
+  {
+    "question": "170. W celu sprawdzenia mapy podłączeń kabla UTP Cat 5e w sieci lokalnej należy użyć",
+    "correct": "a"
+  },
+  {
+    "question": "171. Ile maksymalnie hostów można zaadresować w sieci lokalnej, mając do dyspozycji jedną klasę C adresów protokołu IPv4?",
+    "correct": "a"
+  },
+  {
+    "question": "172. Który z adresów IP należy do klasy B?",
+    "correct": "c"
+  },
+  {
+    "question": "173. Sieć o adresie IP 192.168.2.0/24 podzielono na cztery podsieci. Jaką maskę posiadają nowe podsieci?",
+    "correct": "b"
+  },
+  {
+    "question": "174. W ilu podsieciach pracują komputery o adresach: 192.168.5.12/25, 192.168.5.200/25 i 192.158.5.250/25?",
+    "correct": "c"
+  },
+  {
+    "question": "175. Instalowanie w systemie operacyjnym Windows Server usługi Active Directory wymaga wcześniejszego zainstalowania i skonfigurowania serwera",
+    "correct": "b"
+  },
+  {
+    "question": "176. Jeżeli na danej przestrzeni będą działały równocześnie dwie sieci WLAN standardy 802.11g, to aby wyeliminować możliwość wzajemnych zakłóceń należy im przydzielić kanały o numerach różniących się o",
+    "correct": "d"
+  },
+  {
+    "question": "177. Program wykorzystywany do przechwytywania analizy ruchu sieciowego, to",
+    "correct": "b"
+  },
+  {
+    "question": "178. Na zamieszczonym zrzucie panelu konfiguracyjnego rutera widać, że serwer DHCP",
+    "correct": "a"
+  },
+  {
+    "question": "179. Które polecenie w systemie Windows należy zastosować do monitorowania listy aktywnych połączeń karty sieciowej w komputerze?",
+    "correct": "c"
+  },
+  {
+    "question": "180. Która usługa serwerowa zapewnia automatyczną konfigurację parametrów sieciowych stacji roboczych?",
+    "correct": "c"
+  },
+  {
+    "question": "181. Jaką funkcję pełni ISA Server w systemie operacyjnym Windows?",
+    "correct": "a"
+  },
+  {
+    "question": "182. Która z grup w systemie Windows Serwer posiada najmniejsze uprawnienia?",
+    "correct": "a"
+  },
+  {
+    "question": "183. Który z profili użytkownika ulega zmianie i jest przechowywany na serwerze dla klienta pracującego w sieci Windows?",
+    "correct": "a"
+  },
+  {
+    "question": "184. Protokół pocztowy, za pomocą którego możemy odbierać pocztę z serwera, to",
+    "correct": "b"
+  },
+  {
+    "question": "185. Które zdanie opisuje protokół SSH (Secure Shell)?",
+    "correct": "a"
+  },
+  {
+    "question": "186. Który port jest wykorzystywany przez protokół FTP (File transfer Protocol)",
+    "correct": "a"
+  },
+  {
+    "question": "187. ARP (Adress Resolution Protocol) jest protokołem realizującym odwzrowanie adresu IP na",
+    "correct": "d"
+  },
+  {
+    "question": "188. Aby zabezpieczyć lokalną sieć komputerową przed atakami typu Smurf z sieci Internet należy zainstalować i odpowiednio skonfigurować",
+    "correct": "a"
+  },
+  {
+    "question": "189. Rysunek przedstawia schemat ethernetowego połączenia niekrosowanych, ośmiopinowych złącz 8P8C. Schemat ten nosi nazwę:",
+    "correct": "b"
+  },
+  {
+    "question": "190. Jaką nazwę nosi złącze stosowane w sieciach komputerowych przedstawione na zdjęciu?",
+    "correct": "b"
+  },
+  {
+    "question": "191. Z ilu bitów składa się adres fizyczny MAC karty sieciowej?",
+    "correct": "c"
+  },
+  {
+    "question": "192. Protokół, który umożliwia przekształcanie 32-bitowych adresów IP na 48-bitowe fizyczne adresy MAC w komputerowych sieciach typu Ethernet nosi nazwę:",
+    "correct": "a"
+  },
+  {
+    "question": "193. Standard o nazwie IEEE 802.11 stosowany w lokalnych sieciach komputerowych opisuje sieć:",
+    "correct": "b"
+  },
+  {
+    "question": "194. Wskaż zdanie nieprawdziwe:",
+    "correct": "d"
+  },
+  {
+    "question": "195. Rodzina adapterów wykonanych w technologii Powerline umożliwiająca wykorzystanie sieci energetycznej w obrębie jednego domu/mieszkania do przesyłania sygnału sieciowego nosi nazwę:",
+    "correct": "a"
+  },
+  {
+    "question": "196. Kod kontroli cyklicznej odpowiadający za korekcję błędów i weryfikację poprawności danych otrzymywanych przez stację docelową nosi nazwę:",
+    "correct": "d"
+  },
+  {
+    "question": "197. FDDI (ang. Fiber Distributed Data Interface) to standard transmisji danych oparty na technologii światłowodowej. Jaką topologię stosujemy w sieciach wykonanych wg tej technologii?",
+    "correct": "d"
+  },
+  {
+    "question": "198. Translacja adresów źródłowych w ramach usługi NAT routera umożliwiająca komputerom w sieci prywatnej dostęp do internetu nosi nazwę:",
+    "correct": "c"
+  },
+  {
+    "question": "199. Usługą katalogową nie jest:",
+    "correct": "d"
+  },
+  {
+    "question": "200. Który z podanych adresów IP nie jest adresem prywatnym?",
+    "correct": "b"
+  },
+  {
+    "question": "201. W topologii fizycznej gwiazdy, wszystkie urządzenia pracujące w sieci, są",
+    "correct": "a"
+  },
+  {
+    "question": "202. Który standard sieci LAN definiuje dostęp do medium na podstawie tokenu (żetonu)?",
+    "correct": "d"
+  },
+  {
+    "question": "203. Którym symbolem oznaczona jest skrętka nieekranowana?",
+    "correct": "c"
+  },
+  {
+    "question": "204. Okablowanie strukturalne należy zaliczyć do infrastruktury",
+    "correct": "b"
+  },
+  {
+    "question": "205. Ile warstw definiuje model ISO/OSI",
+    "correct": "c"
+  },
+  {
+    "question": "206. Standard IEEE 802.11 definiuje sieci",
+    "correct": "d"
+  },
+  {
+    "question": "207. Którą konfiguracje sieciową może mieć komputer należący do tej samej sieci LAN, co komputer o adresie 10.8.1.10/24?",
+    "correct": "b"
+  },
+  {
+    "question": "208. Przyrząd przedstawiony na rysunku jest stosowany do zaciskania wtyków",
+    "correct": "c"
+  },
+  {
+    "question": "209. Niezależną strukturą sieci WLAN jest",
+    "correct": "c"
+  },
+  {
+    "question": "210. Adres IP (ang. Internet Protocol Address) jest",
+    "correct": "d"
+  },
+  {
+    "question": "211. Które urządzenie należy zastosować do podłączenia komputerów w topologii gwiazdy?",
+    "correct": "b"
+  },
+  {
+    "question": "212. Skrót WAN oznacza",
+    "correct": "c"
+  },
+  {
+    "question": "213. W którym protokole sieciowym adres źródłowy składa się ze 128 bitów?",
+    "correct": "b"
+  },
+  {
+    "question": "214. Który skrócony zapis odpowiada następującej masce podsieci: 255.255.248.0?",
+    "correct": "a"
+  },
+  {
+    "question": "215. Które polecenie należy zastosować do monitorowania lokalnych połączeń?",
+    "correct": "c"
+  },
+  {
+    "question": "216. Połączenia typu punkt-punkt, poprzez publiczną infrastrukturę telekomunikacyjną, oznacza się skrótem",
+    "correct": "a"
+  },
+  {
+    "question": "217. Jednostką szybkości transmisji danych w sieciach komputerowych jest",
+    "correct": "b"
+  },
+  {
+    "question": "218. Która wersja systemu operacyjnego Windows Server 2008 posiada najbardziej okrojony interfejs graficzny",
+    "correct": "c"
+  },
+  {
+    "question": "219. Który z wymienionych adresów protokołu IPv4 jest adresem klasy D?",
+    "correct": "d"
+  },
+  {
+    "question": "220. W Windows 7 konfigurację interfejsu sieciowego można wykonać, stosując rozwinięcie polecenia",
+    "correct": "a"
+  },
+  {
+    "question": "221. Wykonanie polecenia net use Z:\\\\192.168.20.2\\data /delete, spowoduje",
+    "correct": "a"
+  },
+  {
+    "question": "222. Które z zadań realizuje usługa katalogowa Active Directory w systemach Windows Server?",
+    "correct": "b"
+  },
+  {
+    "question": "223. Dynamiczne konfigurowanie parametrów TCP/IP hosta na podstawie adresu MAC karty sieciowej jest zadaniem protokołu",
+    "correct": "d"
+  },
+  {
+    "question": "224. Mechanizm limitów dyskowych, pozwalający zarządzać wykorzystaniem przez użytkowników zasobów dyskowych, jest określany jako",
+    "correct": "b"
+  },
+  {
+    "question": "225. Mapowanie dysków jest",
+    "correct": "d"
+  },
+  {
+    "question": "226. W usłudze Active Directory, strukturę składającą się z jednej lub większej liczby domen, które mają wspólny schemat i wykaz globalny, należy nazwać",
+    "correct": "b"
+  },
+  {
+    "question": "227. W celu promowania serwera do roli kontrolera domeny w systemach Windows Server należy zastosować polecenie",
+    "correct": "a"
+  },
+  {
+    "question": "228. Adres 2001:0012:0000:0000:0AAA:0000:0000:000B protokołu IPv6 po kompresji przyjmuje postać",
+    "correct": "c"
+  },
+  {
+    "question": "229. Oprogramowanie Microsoft Hyper-V należy zastosować do",
+    "correct": "d"
+  },
+  {
+    "question": "230. Usługa o nazwie: \"Pulpit zdalny\" domyślnie działa na porcie",
+    "correct": "c"
+  },
+  {
+    "question": "231. Zbiór usług internetowych dla systemów rodziny Microsoft Windows jest oznaczony skrótem",
+    "correct": "a"
+  },
+  {
+    "question": "232. Translacja adresów sieciowych jest oznaczona skrótem",
+    "correct": "c"
+  },
+  {
+    "question": "233. Do centralnego zarządzania konfiguracją grup komputerów i użytkowników w systemach Windows Server należy zastosować narzędzie",
+    "correct": "d"
+  },
+  {
+    "question": "234. Który skrót określa typ licencji Microsoft przeznaczonej dla szkół, uczelni wyższych, instytucji rządowych oraz dużych przedsiębiorstw?",
+    "correct": "a"
+  },
+  {
+    "question": "235. W systemach operacyjnych Windows konto użytkownika, o największych uprawnieniach domyslnych, należy do grupy",
+    "correct": "b"
+  },
+  {
+    "question": "236. Protokołem połączeniowym zapewniającym niezawodne dostarczenie danych jest protokół",
+    "correct": "c"
+  },
+  {
+    "question": "237. Zasady filtracji ruchu sieciowego firewall są definiowane w postaci",
+    "correct": "a"
+  },
+  {
+    "question": "238. Które polecenie diagnostyczne należy zastosować do wyświetlania informacji o tym, czy miejsce docelowe odpowiada i po jakim czasie została odebrana odpowiedź?",
+    "correct": "a"
+  },
+  {
+    "question": "239. Które polecenie w systemach operacyjnych Windows, jest stosowane do wyświetlania konfiguracji interfejsów sieciowych?",
+    "correct": "d"
+  },
+  {
+    "question": "240. Który protokół zapewnia szyfrowane połączenia?",
+    "correct": "a"
+  },
+  {
+    "question": "241. Skrót MAN oznacza sieć",
+    "correct": "b"
+  },
+  {
+    "question": "242. Na rysunku przedstawiono kabel",
+    "correct": "d"
+  },
+  {
+    "question": "243. Który protokół komunikacyjny wykorzystuje port 53?",
+    "correct": "b"
+  },
+  {
+    "question": "244. Który z protokołów przesyła datagramy użytkownika NIE GWARANTUJĄC ich dostarczenia?",
+    "correct": "b"
+  },
+  {
+    "question": "245. Urządzenie sieciowe przedstawione na rysunku, to",
+    "correct": "a"
+  },
+  {
+    "question": "246. Ile domen kolizyjnych występuje w sieci pokazanej na rysunku?",
+    "correct": "a"
+  },
+  {
+    "question": "247. Na rysunku przedstawiono sieć lokalną opartą na okablowaniu kat. 6. Stacja robocza C nie może skomunikować się z siecią. Jaki problem warstwy fizycznej może powodować brak łączności?",
+    "correct": "d"
+  },
+  {
+    "question": "248. Norma PN-EN 50173 zaleca instalowanie minimum",
+    "correct": "a"
+  },
+  {
+    "question": "249. Urządzenie umożliwiające łączenie hostów jednej sieci z hostami w innych sieciach to",
+    "correct": "c"
+  },
+  {
+    "question": "250. Dokument, którego celem jest przedstawienie inwestorowi oferty cenowej wykonania robót instalatorskich sieci komputerowej, to",
+    "correct": "c"
+  },
+  {
+    "question": "251. Medium transmisyjne odporne na zakłócenia elektromagnetyczne i atmosferyczne to",
+    "correct": "a"
+  },
+  {
+    "question": "252. Na rysunku przedstawiono patchpanel - nieekranowany panel krosowy kategorii 5e, wyposażony w złącza szczelinowe typu LSA. Do montażu (zaszywania) kabli w złącza szczelinowe należy użyć",
+    "correct": "c"
+  },
+  {
+    "question": "253. Odległość toru nieekranowanego kabla sieciowego od oświetleniowej instalacji elektrycznej powinna wynosić minimum",
+    "correct": "b"
+  },
+  {
+    "question": "254. Dopuszczalny promień zgięcia podczas instalacji kabla U/UTP kat.5E wynosi",
+    "correct": "d"
+  },
+  {
+    "question": "255. W jakich jednostkach wyrażony przesłuch zbliżny NEXT?",
+    "correct": "d"
+  },
+  {
+    "question": "256. W sieci o adresie 192.168.20.0 zastosowano maskę podsieci 255.255.255.248. Ile adresów IP będzie dostępnych dla urządzeń?",
+    "correct": "d"
+  },
+  {
+    "question": "257. Który z adresów IP należy do klasy A?",
+    "correct": "a"
+  },
+  {
+    "question": "258. Adres planowanej sieci należy do klasy C. Sieć została podzielona na 4 podsieci po 62 urządzenia w każdej podsieci. Która z poniższych masek jest odpowiednia do planowanego zadania?",
+    "correct": "b"
+  },
+  {
+    "question": "259. Do pomiaru tłumienia łącza światłowodowego w dwóch oknach transmisyjnych 1310 nm i 1550 nm należy użyć",
+    "correct": "a"
+  },
+  {
+    "question": "260. Dokumentacja powykonawcza projektowanej sieci LAN powinna między innymi zawierać",
+    "correct": "a"
+  },
+  {
+    "question": "261. Urządzenie, na którym można dokonać konfiguracji sieci VLAN, to",
+    "correct": "d"
+  },
+  {
+    "question": "262. Który typ routingu najlepiej zastosować w rozbudowanych, szybko zmieniających się sieciach?",
+    "correct": "d"
+  },
+  {
+    "question": "263. W celu wyłączenia rozgłaszania nazwy sieci bezprzewodowej należy w punkcie dostępowym wyłączyć funkcję",
+    "correct": "d"
+  },
+  {
+    "question": "264. Najczęściej stosowany kodek mowy podczas konfiguracji bramki VoIP to",
+    "correct": "c"
+  },
+  {
+    "question": "265. Polecenie za pomocą którego można uzyskać informacje o aktualnych połączeniach TCP oraz informacje o źródłowych i docelowych portach, to",
+    "correct": "b"
+  },
+  {
+    "question": "266. Za pomocą narzędzia diagnostycznego Tracert można ustalić trasę do punktu docelowego. Przez ile routerów przeszedł pakiet wysłany do hosta 172.16.0.99?",
+    "correct": "b"
+  },
+  {
+    "question": "267. Polecenie umożliwiające poznanie adresów fizycznych dla kart sieciowych w systemie to",
+    "correct": "b"
+  },
+  {
+    "question": "268. Do utworzenia woluminu RAID 5 w serwerze potrzeba minimum",
+    "correct": "b"
+  },
+  {
+    "question": "269. Aby przeprowadzić ręczną konfigurację interfejsu sieciowego w systemie LINUX należy się posłużyć poleceniem",
+    "correct": "b"
+  },
+  {
+    "question": "270. W systemie Windows Serwer utworzenie ukrytego, udostępnionego katalogu wymaga dopisania na końcu nazwy katalogu symbolu",
+    "correct": "d"
+  },
+  {
+    "question": "271. Jakie polecenie umożliwia mapowanie zasobów sieciowych w Windows Serwer?",
+    "correct": "c"
+  },
+  {
+    "question": "272. Konfiguracja usług na serwerze realizowana jest poprzez",
+    "correct": "a"
+  },
+  {
+    "question": "273. Planując wykorzystanie miejsca na dysku komputera do przechowywania i udostępniania takich informacji jak pliki i aplikacje dostępne w sieci oraz zarządzania nimi, należy skonfigurować komputer jako",
+    "correct": "b"
+  },
+  {
+    "question": "274. Informacje o kontach użytkowników w systemie LINUX przechowywane są w pliku",
+    "correct": "c"
+  },
+  {
+    "question": "275. Zgodnie z modelem TCP/IP protokoły DNS, FTP oraz SMTP, należą do warstwy",
+    "correct": "d"
+  },
+  {
+    "question": "276. Protokół typu klient-serwer oraz żądanie-odpowiedź, który stosowany jest do udostępniania plików, to",
+    "correct": "a"
+  },
+  {
+    "question": "277. Połączenie między oddzielnymi sieciami i kontrolę przepływu informacji między nimi realizuje urządzenie warstwy dystrybucji nazywane",
+    "correct": "a"
+  },
+  {
+    "question": "278. Wpisując w przeglądarce internetowej adres www.egzamin.pl użytkownik nie ma dostępu do strony WWW, natomiast wpisanie adresu 211.0.12.41 pozwala otworzyć tę stronę. Przyczyną tego problemu jest brak skonfigurowanego serwera",
+    "correct": "d"
+  },
+  {
+    "question": "279. Aby chronić komputery w sieci lokalnej przed nieautoryzowanym dostępem oraz atakami typu DoS należy zainstalować i skonfigurować",
+    "correct": "a"
+  },
+  {
+    "question": "280. Przechowywanie kopii często odwiedzanych stron oraz zwiększenie bezpieczeństwa dzięki odfiltrowywaniu określonych zawartości stron sieci Web można uzyskać poprzez",
+    "correct": "c"
+  },
+  {
+    "question": "281. Która z topologii fizycznych sieci komputerowej jest przedstawiona na rysunku?",
+    "correct": "a"
+  },
+  {
+    "question": "282. Topologia fizyczna, w której wszystkie urządzenia końcowe są bezpośrednio podłączone do jednego punktu centralnego, np. koncentratora lub przełącznika to topologia",
+    "correct": "b"
+  },
+  {
+    "question": "283. Zgodnie ze standardem 802.3u sieci FastEthernet 100Base-FX wykorzystuje",
+    "correct": "c"
+  },
+  {
+    "question": "284. Jaka jest kolejność we wtyku RJ-45 zgodnie z normą TIA/EIA-568 dla zakończenia typu T568B?",
+    "correct": "b"
+  },
+  {
+    "question": "285. Bezpołączeniowy protokół warstwy transportowej to",
+    "correct": "b"
+  },
+  {
+    "question": "286. Które stwierdzenie dotyczące protokołu DHCP jest prawidłowe?",
+    "correct": "b"
+  },
+  {
+    "question": "287. Który z protokołów przekształca logiczne adresy IP na fizyczne adresy MAC stosowane w sieci Ethernet?",
+    "correct": "c"
+  },
+  {
+    "question": "288. Które urządzenie przedstawia rysunek?",
+    "correct": "c"
+  },
+  {
+    "question": "289. Które urządzenie sieciowe przedstawia symbol graficzny?",
+    "correct": "b"
+  },
+  {
+    "question": "290. Które urządzenie sieciowe działa w warstwie fizycznej modelu ISO/OSI, przesyłając sygnał z jednego portu na wszystkie pozostałe porty?",
+    "correct": "c"
+  },
+  {
+    "question": "291. Wykonując projekt sieci LAN, wykorzystano medium transmisyjne standardu Ethernet 1000Base-T. Które stwierdzenie jest prawdziwe?",
+    "correct": "b"
+  },
+  {
+    "question": "292. Co łączy okablowanie pionowe w projekcie sieci LAN?",
+    "correct": "a"
+  },
+  {
+    "question": "293. Które medium transmisyjne zapewnia separację galwaniczną pomiędzy systemami transmisji danych?",
+    "correct": "a"
+  },
+  {
+    "question": "294. Z którym medium transmisyjnym wykorzystuje się przedstawiony na rysunku adapter?",
+    "correct": "a"
+  },
+  {
+    "question": "295. Urządzenie przedstawione na rysunku to",
+    "correct": "c"
+  },
+  {
+    "question": "296. Wskaż zakres adresów IP należący do klasy A, służący do adresacji prywatnej w sieciach komputerowych:",
+    "correct": "a"
+  },
+  {
+    "question": "297. Do której klasy adresów IP należy adres 130.140.0.0?",
+    "correct": "b"
+  },
+  {
+    "question": "298. Ile hostów można zaadresować w podsieci o adresie 192.168.10.0/25?",
+    "correct": "c"
+  },
+  {
+    "question": "299. Rysunek przedstawia konfigurację urządzenia WiFi. Wskaż, które stwierdzenie dotyczące konfiguracji jest prawdziwe:",
+    "correct": "b"
+  },
+  {
+    "question": "300. Który z wymienionych mechanizmów zapewni najwyższy poziom bezpieczeństwa sieci bezprzewodowych standardu 802.11n?",
+    "correct": "c"
+  },
+  {
+    "question": "301. Polecenie netstat -a w systemach Microsoft Windows wyświetla",
+    "correct": "c"
+  },
+  {
+    "question": "302. Aby sprawdzić adres fizyczny karty sieciowej, w wierszu poleceń systemu operacyjnego Microsoft Windows należy wpisać polecenie",
+    "correct": "d"
+  },
+  {
+    "question": "303. W wierszu poleceń w systemie operacyjnym zostało wydane polecenie nslookup. Jaka informację uzyskano?",
+    "correct": "c"
+  },
+  {
+    "question": "304. Które polecenie w systemie Linux umożliwia sprawdzenie adresu IP przypisanego do interfejsu sieciowego?",
+    "correct": "a"
+  },
+  {
+    "question": "305. Które polecenie wiersza poleceń systemu operacyjnego Microsoft Windows Wyświetla informacje dotyczące wszystkich zasobów udostępnionych na komputerze lokalnym?",
+    "correct": "c"
+  },
+  {
+    "question": "306. Która usługa musi byc uruchomiona na serwerze by stacja robocza pobierała automatycznie adres IP?",
+    "correct": "c"
+  },
+  {
+    "question": "307. Którą usługę należy zainstalować na serwerze Linux, aby korzystać z bezpiecznego zdalnego dostępu?",
+    "correct": "b"
+  },
+  {
+    "question": "308. Wskaż nieprawidłowe stwierdzenie dotyczące Active Directory:",
+    "correct": "d"
+  },
+  {
+    "question": "309. Która usługa sieciowa standardowo korzysta z portu 53?",
+    "correct": "b"
+  },
+  {
+    "question": "310. Jak nazywa sie zbiór usług internetowych dla systemów rodziny Microsoft Windows, który umożliwia pełnienie roli serwera FTP oraz serwera WWW?",
+    "correct": "d"
+  },
+  {
+    "question": "311. Komputer pracujący w domenie Active Directory nie może połączyć się z kontrolerem domeny, na którym jest przechowywany profil użytkownika. Jaki typ profilu użytkownika zostanie utworzony na tym komputerze?",
+    "correct": "c"
+  },
+  {
+    "question": "312. Którym poleceniem w systemie Linux można założyć uzytkowników?",
+    "correct": "c"
+  },
+  {
+    "question": "313. Które polecenie w systemie operacyjnym Linux umożliwia przypisanie istniejącego konta użytkownika nowak do grupy technikum?",
+    "correct": "c"
+  },
+  {
+    "question": "314. Który z protokołów jest protokołem warstwy aplikacji w modelu ISO/OSI?",
+    "correct": "a"
+  },
+  {
+    "question": "315. Użytkownik Gość należy do grupy Goście. Grupa Goście należy do grupy Wszyscy. Wskaż uprawnienia udziału użytkownika Gość do folderu test1:",
+    "correct": "a"
+  },
+  {
+    "question": "316. W systemie Linux ustawiono prawa dostepu do folderu określone w postaci ciągu znaków rwx--x--x. Jakiej wartości numerycznej odpowiadają te prawa?",
+    "correct": "b"
+  },
+  {
+    "question": "317. Użytkownik wpisując w wierszu poleceń polecenie ping www.onet.pl otrzymuje następujący komunikat: Żądanie polecenia ping nie może znaleźć hosta www.onet.pl Sprawdź nazwe i ponów próbę. Natomiast wpisując w wierszu poleceń polecenie ping 213.180.141.140 (adres IP serwera www.onet.pl), użytkownik dostaje odpowiedź z serwera. Co może być przyczyną takiego stanu?",
+    "correct": "b"
+  },
+  {
+    "question": "318. Hosty A i B nie komunikują się z hostem C. Między hostami A i B komunikacja jest prawidłowa. Co jest przyczyną braku komunikacji między hostami A i C oraz B i C?",
+    "correct": "a"
+  },
+  {
+    "question": "319. Która czynność zabezpieczy dane przesyłane w sieci przed działaniem sniffera?",
+    "correct": "c"
+  },
+  {
+    "question": "320. Narzędzie iptables w systemie Linux służy do",
+    "correct": "b"
+  },
+  {
+    "question": "321. Switch jako element centralny występuje w sieci o topologii",
+    "correct": "a"
+  },
+  {
+    "question": "322. Norma dotycząca okablowania strukturalnego to",
+    "correct": "d"
+  },
+  {
+    "question": "323. Bezpołączeniowy protokół warstwy transportowej modelu ISO/OSI to",
+    "correct": "d"
+  },
+  {
+    "question": "324. Protokołem odpowiedzialnym za wykrywanie i eliminowanie kolizji w sieciach Ethernet jest",
+    "correct": "d"
+  },
+  {
+    "question": "325. Urządzenie sieciowe pracujące w trzeciej warstwie modelu ISO/OSI, operującej na adresach IP, to",
+    "correct": "b"
+  },
+  {
+    "question": "326. Która z cech charakteryzuje przełącznik sieciowy?",
+    "correct": "b"
+  },
+  {
+    "question": "327. Wymiana koncentratorów na przełączniki w sieci Ethernet spowoduje",
+    "correct": "b"
+  },
+  {
+    "question": "328. Które urządzenie sieciowe pozwala połączyć sieć LAN z WAN?",
+    "correct": "b"
+  },
+  {
+    "question": "329. Oblicz koszt brutto materiałów niezbędnych do połączenia w sieć w topologii gwiazdy, 3 komputerów wyposażonych w karty sieciowe, wykorzystując przewody o długości 2 m. Ceny materiałów podano w tabeli.",
+    "correct": "b"
+  },
+  {
+    "question": "330. Aby w budowanej sieci komputerowej zapewnić najmniejszy wpływ zakłóceń elektromagnetycznych na przesyłany sygnał należy zastosować",
+    "correct": "a"
+  },
+  {
+    "question": "331. Które medium transmisyjne należy zastosować, aby połączyć dwa punkty dystrybucyjne odległe od siebie o 600m?",
+    "correct": "a"
+  },
+  {
+    "question": "332. W sieci Ethernet 100Base-TX do transmisji danych wykorzystywane są żyły kabla UTP dołączone do pinów",
+    "correct": "d"
+  },
+  {
+    "question": "333. Komputer ma adres IP 192.168.0.1, maska podsieci to 255.255.255.0. Który adres jest adresem rozgłoszeniowym podsieci, do której należy ten komputer?",
+    "correct": "d"
+  },
+  {
+    "question": "334. Komputer o adresie IP 192.168.5.165 z maską podsieci 255.255.255.192 pracuje w sieci o adresie",
+    "correct": "c"
+  },
+  {
+    "question": "335. Router na interfejsie LAN ma przypisany adres IP 192.168.50.1. Został on tak skonfigurowany, że komputerom przydziela się wszystkie dostępne adresy IP w sieci 192.168.50.0 z maską 255.255.255.0. Ile maksymalnie komputerów może pracować w takiej sieci?",
+    "correct": "b"
+  },
+  {
+    "question": "336. Który zapis jest maską podsieci dla adresu IP 217.152.128.100/25?",
+    "correct": "b"
+  },
+  {
+    "question": "337. Na rysunku podano podstawową informację o konfiguracji karty sieciowej. Do której klasy adresów IP należy adres przypisany tej karcie?",
+    "correct": "c"
+  },
+  {
+    "question": "338. Którą maskę należy zastosować, aby sieć o adresie 192.168.1.0 podzielić na 4 podsieci?",
+    "correct": "c"
+  },
+  {
+    "question": "339. Który parametr trzeba podać podczas konfiguracji serwera DHCP?",
+    "correct": "a"
+  },
+  {
+    "question": "340. Które polecenie jest stosowane do monitorowania lokalnych połączeń?",
+    "correct": "d"
+  },
+  {
+    "question": "341. Który port jest domyślnym portem serwera usługi WWW?",
+    "correct": "a"
+  },
+  {
+    "question": "342. Aby zapewnić dobrą jakość połączeń głosowych VoIP kosztem innych przesyłanych danych, należy na routerze włączyć i skonfigurować usługę",
+    "correct": "b"
+  },
+  {
+    "question": "343. Router Wi-Fi pracujący w standardzie 802.11n pozwala uzyskać maksymalną prędkość transmisji",
+    "correct": "c"
+  },
+  {
+    "question": "344. Użytkownik laptopa z systemu Windows 7 widzi dostępne sieci bezprzewodowe jak na rysunku. Konfigurując połączenie z siecią Z1 musi dla tej sieci podać",
+    "correct": "d"
+  },
+  {
+    "question": "345. Rezultat wykonania którego polecenia z systemu Windows przedstawia rysunek?",
+    "correct": "b"
+  },
+  {
+    "question": "346. Który z sieciowych systemów operacyjnych jest udostępniany na licencji GNU?",
+    "correct": "b"
+  },
+  {
+    "question": "347. Do konfiguracji interfejsu sieciowego w systemie Linux służy polecenie",
+    "correct": "a"
+  },
+  {
+    "question": "348. Który pakiet należy zainstalować na serwerze Linux, aby stacje robocze z systemem Windows mogły korzystać z plików i drukarek udostępnianych na tym serwerze?",
+    "correct": "c"
+  },
+  {
+    "question": "349. Apache jest serwerem",
+    "correct": "b"
+  },
+  {
+    "question": "350. Serwerem poczty e-mail jest",
+    "correct": "a"
+  },
+  {
+    "question": "351. Protokół umożliwiający pobieranie poczty e-mail z serwera to:",
+    "correct": "c"
+  },
+  {
+    "question": "352. Aby zarządzać wielkością transferu sieciowego, administrator powinien wykorzystać program typu",
+    "correct": "d"
+  },
+  {
+    "question": "353. Podstawowy mechanizm ochrony danych w sieci komputerowej przed nieuprawnionym dostępem to",
+    "correct": "d"
+  },
+  {
+    "question": "354. Podstawowy protokół używany do wyznaczenia trasy i wysyłania nią pakietu danych w sieci komputerowej to",
+    "correct": "a"
+  },
+  {
+    "question": "355. Na rysunku przedstawiono zrzut ekranu z konfiguracji strefy DMZ na routerze. Włączenie opcji \"Enable DMZ\" spowoduje, że komputer o adresie IP 192.168.0.106",
+    "correct": "d"
+  },
+  {
+    "question": "356. Poniżej przedstawiono fragment pliku konfiguracyjnego usługi serwerowej w systemie Linux. Jest to usługa",
+    "correct": "d"
+  },
+  {
+    "question": "357. Wskaż domyślny port do przekazywania poleceń serwera usługi FTP",
+    "correct": "b"
+  },
+  {
+    "question": "358. Jak muszą być ustawione prawa dostępu w systemie Linux, aby tylko jego właściciel mógł zapisywać w danym katalogu?",
+    "correct": "b"
+  },
+  {
+    "question": "359. Użytkownik komputera testujący połączenia sieciowe poleceniem ping otrzymał wynik jak na rysunku. Co jest przyczyną braku odpowiedzi serwera przy pierwszej probie, przy założeniu, że domena wp.pl ma adres 212.77.100.101?",
+    "correct": "c"
+  },
+  {
+    "question": "360. Który rodzaj macierzy dyskowych oferuje tzw. mirroring dysków?",
+    "correct": "b"
+  },
+  {
+    "question": "361. W sieci lokalnej protokołem dynamicznej konfiguracji adresów IP jest",
+    "correct": "c"
+  },
+  {
+    "question": "362. Przedstawione parametry karty sieciowej wskazują, że karta",
+    "correct": "c"
+  },
+  {
+    "question": "363. Jeśli wydanie komendy ping 127.0.0.1 skutkuje brakiem odpowiedzi, to",
+    "correct": "d"
+  },
+  {
+    "question": "364. Głównym zadaniem przełącznika /renew komendy ipconfig w systemie rodziny Windows jest",
+    "correct": "c"
+  },
+  {
+    "question": "365. Aby połączyć komputery w sieć przewodową opartą na topologii gwiazdy, należy zastosować",
+    "correct": "d"
+  },
+  {
+    "question": "366. Administrator nadający adresy prywatne w klasie C, z maską 24 bitową dla komputerów w sieci lokalnej, wybierze zakres",
+    "correct": "d"
+  },
+  {
+    "question": "367. Najlepszym zabezpieczeniem sieci bezprzewodowej jest",
+    "correct": "d"
+  },
+  {
+    "question": "368. Aby podłączyć do Internetu sieć lokalną, działającą w oparciu o adresy prywatne, należy zastosować",
+    "correct": "d"
+  },
+  {
+    "question": "369. Rysunek przedstawia topologię",
+    "correct": "d"
+  },
+  {
+    "question": "370. W architekturze sieci lokalnych typu klient-serwer",
+    "correct": "d"
+  },
+  {
+    "question": "371. Którą normę stosuje się dla okablowania strukturalnego w sieciach komputerowych",
+    "correct": "d"
+  },
+  {
+    "question": "372. Kontrolę poprawności przesyłania danych w sieciach Ethernet zapewnia protokół",
+    "correct": "b"
+  },
+  {
+    "question": "373. Urządzenie przedstawione na rysunku to",
+    "correct": "c"
+  },
+  {
+    "question": "374. Zastosowanie którego urządzenia może być przyczyną zwiększenia liczby kolizji pakietów w sieci?",
+    "correct": "d"
+  },
+  {
+    "question": "375. Rysunek przedstawia symbol graficzny",
+    "correct": "c"
+  },
+  {
+    "question": "376. Funkcją serwera FTP jest",
+    "correct": "c"
+  },
+  {
+    "question": "377. Które urządzenie należy zastosować do podziału domeny rozgłoszeniowej?",
+    "correct": "b"
+  },
+  {
+    "question": "378. Największą szybkość transmisji danych w sieci bezprzewodowej uzyska się stosując urządzenia standardu",
+    "correct": "d"
+  },
+  {
+    "question": "379. Jaki będzie łączny koszt materiałów służących do wykonania 20 kabli połączeniowych typu patchcord o długości 1,5m każdy, jeśli 1 metr bieżącego kabla kosztuje 1zł, a wtyk 50 gr?",
+    "correct": "c"
+  },
+  {
+    "question": "380. Ile wynosi maksymalna szybkość transmisji danych w sieci lokalnej, w której do budowy okablowania strukturalnego zastosowano przewód UTP kat.5e?",
+    "correct": "c"
+  },
+  {
+    "question": "381. Kabel typu skrętka, posiadający każdą parę przewodów w osobnym ekranie z folii, przy czym wszystkie przewody znajdują się w ekranie z folii, jest oznaczony symbolem",
+    "correct": "d"
+  },
+  {
+    "question": "382. Jaka jest standardowa wartość maksymalnej odległości pomiędzy urządzeniami sieciowymi, połączonymi bezpośrednio przewodem UTP kat.5e?",
+    "correct": "b"
+  },
+  {
+    "question": "383. Który standard sieci Ethernet należy zastosować przy połączeniu bezpośrednim urządzeń sieciowych oddalonych od siebie o 1 km?",
+    "correct": "d"
+  },
+  {
+    "question": "384. Do zarobienia końcówek kabla UTP jest stosowany wtyk",
+    "correct": "c"
+  },
+  {
+    "question": "385. Który z adresów jest adresem rozgłoszeniowym dla hosta o adresie IP 171.25.172.29 i masce sieci 255.255.0.0?",
+    "correct": "d"
+  },
+  {
+    "question": "386. Jaki jest adres sieci, w której pracuje host o adresie IP 10.10.10.6 klasy A?",
+    "correct": "a"
+  },
+  {
+    "question": "387. Ile jest adresów IP dostępnych do adresowania komputerów w sieci o adresie 192.168.100.0 i masce 255.255.255.0?",
+    "correct": "b"
+  },
+  {
+    "question": "388. Maska w postaci pełnej podsieci o prefiksie /25 to",
+    "correct": "a"
+  },
+  {
+    "question": "389. Aby zwiększyć bezpieczeństwo zasobów sieciowych administrator sieci komputerowej w firmie otrzymał polecenie podzielenia istniejącej lokalnej sieci komputerowej na 16 podsieci. Dotychczasowa sieć miała adres IP 192.168.20.0 z maską 255.255.255.0. Którą maskę sieci powinien zastosować administrator?",
+    "correct": "c"
+  },
+  {
+    "question": "390. Tester okablowania strukturalnego pozwala sprawdzić",
+    "correct": "d"
+  },
+  {
+    "question": "391. Które polecenie w systemie operacyjnym Linux jest stosowane do wyświetlania konfiguracji interfejsów sieciowych?",
+    "correct": "c"
+  },
+  {
+    "question": "392. Która usługa musi być uruchomiona na ruterze, aby ruter mógł zmieniać adresy IP źródłowe i docelowe przy przekazywaniu pakietów pomiędzy sieciami?",
+    "correct": "d"
+  },
+  {
+    "question": "393. Najskuteczniejszą metodą zabezpieczenia domowej sieci Wi-Fi jest",
+    "correct": "d"
+  },
+  {
+    "question": "394. Którym poleceniem w systemie Linux przypisuje się adres IP i maskę podsieci dla interfejsu eth0?",
+    "correct": "d"
+  },
+  {
+    "question": "395. Do automatycznego przydzielania adresów IP stacjom roboczym jest stosowana usługa",
+    "correct": "c"
+  },
+  {
+    "question": "396. Zadaniem usługi DNS jest",
+    "correct": "b"
+  },
+  {
+    "question": "397. Serwer obsługujący żądania protokołu komunikacyjnego HTTP to serwer",
+    "correct": "d"
+  },
+  {
+    "question": "398. Na zdjęciu przedstawiono",
+    "correct": "a"
+  },
+  {
+    "question": "399. Który z wymienionych protokołów jest protokołem działającym w warstwie aplikacji?",
+    "correct": "a"
+  },
+  {
+    "question": "400. Który wymieniony protokół zapewnia korzystanie z szyfrowanego połączenia ze stroną internetową?",
+    "correct": "c"
+  },
+  {
+    "question": "401. Protokół umożliwiający bezpieczną, zdalną pracę na serwerze to",
+    "correct": "a"
+  },
+  {
+    "question": "402. Aby umożliwić wymianę danych pomiędzy dwoma różnymi sieciami należy zastosować",
+    "correct": "b"
+  },
+  {
+    "question": "403. Liczba 22 użyta w adresie http://www.adres_serwera.pl:22 oznacza numer",
+    "correct": "a"
+  },
+  {
+    "question": "404. Które środowisko powinien wybrać administrator sieci, aby zainstalować serwer stron WWW w systemie Linux?",
+    "correct": "b"
+  },
+  {
+    "question": "405. Który program należy zainstalować na serwerze internetowym z systemem Linux, aby można było korzystać z baz danych?",
+    "correct": "d"
+  },
+  {
+    "question": "406. Atak DDoS (ang. Disributed Denial of Service) na serwer spowoduje",
+    "correct": "d"
+  },
+  {
+    "question": "407. Podstawową metodą zabezpieczenia sieci komputerowej przed atakiem z zewnątrz jest stosowanie",
+    "correct": "b"
+  },
+  {
+    "question": "408. Do monitorowania transmisji danych w sieci komputerowej należy zastosować program typu",
+    "correct": "a"
+  },
+  {
+    "question": "409. Który typ fizycznej topologii sieci komputerowej przedstawia rysunek?",
+    "correct": "b"
+  },
+  {
+    "question": "410. Rysunek przedstawia fizyczną topologię",
+    "correct": "c"
+  },
+  {
+    "question": "411. Ile domen kolizyjnych i rozgłoszeniowych jest widocznych na schemacie?",
+    "correct": "b"
+  },
+  {
+    "question": "412. Który rodzaj standardu zakończenia przewodu okablowania strukturalnego przedstawia rysunek?",
+    "correct": "a"
+  },
+  {
+    "question": "413. Który zapis jest prawidłowym adresem IPv6?",
+    "correct": "b"
+  },
+  {
+    "question": "414. Identyfikowanie adresów fizycznych MAC na podstawie adresów logicznych IP jest wynikiem działania protokołu",
+    "correct": "a"
+  },
+  {
+    "question": "415. Symbol którego urządzenia wskazuje na rysunek strzałka?",
+    "correct": "d"
+  },
+  {
+    "question": "416. Zdjęcie przedstawia",
+    "correct": "c"
+  },
+  {
+    "question": "417. Które stwierdzenie dotyczy sieci P2P - peer to peer?",
+    "correct": "d"
+  },
+  {
+    "question": "418. Aby była możliwa komunikacja między sieciami VLAN, stosuje się",
+    "correct": "a"
+  },
+  {
+    "question": "419. Narzędzie na zdjęciu służy do",
+    "correct": "d"
+  },
+  {
+    "question": "420. Który przyrząd należy wybrać do pomiarów mapy połączeń okablowania strukturalnego sieci lokalnej?",
+    "correct": "c"
+  },
+  {
+    "question": "421. Ile hostów maksymalnie można zaadresować w sieci o adresie IP klasy B?",
+    "correct": "c"
+  },
+  {
+    "question": "422. Serwer DHCP przydziela adresy z sieci o adresie 192.168.0.0. Którą maskę należy przypisać sieci, aby serwer mógł nadać 510 urządzeniom pracującym w sieci po jednym adresie IP?",
+    "correct": "c"
+  },
+  {
+    "question": "423. Który adres IP jest adresem urządzenia pracującego w sieci 10.0.0.0/17?",
+    "correct": "b"
+  },
+  {
+    "question": "424. Który rodzaj rozbudowy serwera wymaga instalacji dodatkowych sterowników?",
+    "correct": "d"
+  },
+  {
+    "question": "425. Na podstawie którego adresu przełącznik podejmuje decyzje o przesyłaniu ramki?",
+    "correct": "d"
+  },
+  {
+    "question": "426. Która funkcja punktu dostępowego pozwala zabezpieczyć sieć bezprzewodową tak, aby tylko urządzenia o określonych adresach fizycznych mogły się do niej podłączyć?",
+    "correct": "c"
+  },
+  {
+    "question": "427. Który parametr w konfiguracji punktu dostępowego pełni rolę loginu wykorzystywanego podczas próby nawiązywania połączenia z punktem dostępowym sieci bezprzewodowej?",
+    "correct": "d"
+  },
+  {
+    "question": "428. Na podstawie analizy ruchu sieciowego, wskaż adres IP i numer portu, z którego host otrzymuje odpowiedź",
+    "correct": "a"
+  },
+  {
+    "question": "429. Które polecenie systemu Windows wyświetla tabele routingu hosta?",
+    "correct": "b"
+  },
+  {
+    "question": "430. Użytkownikom pracującym poza biurem uzyskanie zdalnego dostępu do serwera w sieci prywatnej przy wykorzystaniu infrastruktury sieci publicznej, takiej jak Internet, umożliwia",
+    "correct": "b"
+  },
+  {
+    "question": "431. Pierwszą usługą instalowaną na serwerze jest usługa domenowa w usłudze Active Directory. Podczas instalacji kreator automatycznie wyświetli monit o konieczności zainstalowania usługi serwera",
+    "correct": "b"
+  },
+  {
+    "question": "432. Adresem IP hosta skonfigurowanym na karcie sieciowej eth0 jest",
+    "correct": "b"
+  },
+  {
+    "question": "433. Aby zagwarantować użytkownikom Active Directory możliwość logowania się i dostęp do zasobów tej usługi w przypadku awarii kontrolera domeny, należy",
+    "correct": "a"
+  },
+  {
+    "question": "434. Rozgłaszaniem drukarek w sieci, kolejkowaniem zadań wydruku oraz przydzielaniem praw dostępu do drukarek zajmuje się serwer",
+    "correct": "d"
+  },
+  {
+    "question": "435. Profil użytkownika systemu Windows wykorzystany do logowania się na dowolnym komputerze w sieci, który jest przechowywany na serwerze i może być modyfikowany przez użytkownika, to profil",
+    "correct": "b"
+  },
+  {
+    "question": "436. Który zakres grupy domyślnie jest ustawiony dla nowo utworzonej grupy w kontrolerze domeny systemu Windows Serwer?",
+    "correct": "a"
+  },
+  {
+    "question": "437. Które polecenie w systemie Linux umożliwia przydzielanie praw do plików i katalogów?",
+    "correct": "c"
+  },
+  {
+    "question": "438. Do zdalnego zarządzania stacjami roboczymi nie jest stosowany",
+    "correct": "b"
+  },
+  {
+    "question": "439. Protokół używany przez WWW to",
+    "correct": "b"
+  },
+  {
+    "question": "440. Internetowy protokół pocztowy, który pozwala na zarządzanie wieloma folderami pocztowymi oraz pobieranie i operowanie na listach znajdujących się na zdalnym serwerze, to",
+    "correct": "c"
+  },
+  {
+    "question": "441. Które urządzenie w sieci lokalnej NIE DZIELI obszaru sieci komputerowej na domeny kolizyjne?",
+    "correct": "d"
+  },
+  {
+    "question": "442. Protokołem połączeniowym warstwy transportowej modelu ISO/OSI jest",
+    "correct": "a"
+  },
+  {
+    "question": "443. Który z typów rekordów DNS w rodzinie systemów Windows Server definiuje alias (alternatywną nazwę) rekordu A dla kanonicznej (rzeczywistej) nazwy hosta?",
+    "correct": "d"
+  },
+  {
+    "question": "444. Urządzeniem, które umożliwia podłączenie lokalnej sieci komputerowej do Internetu jest",
+    "correct": "a"
+  },
+  {
+    "question": "445. Menedżer usług IIS (Internet Information Services) systemu Windows jest interfejsem graficznym służącym do konfigurowania serwera",
+    "correct": "b"
+  },
+  {
+    "question": "446. Użytkownicy z sieci wewnętrznej komunikują się ze sobą, ale nie mogą się skomunikować z serwerem WWW. Wynik polecenia ping z komputerów bramy jest pozytywny. Który element sieci NIE MOŻE być przyczyną problemu?",
+    "correct": "c"
+  },
+  {
+    "question": "447. W systemach Windows w celu ustalenia, gdzie w sieci zatrzymał się pakiet używa się komendy",
+    "correct": "b"
+  },
+  {
+    "question": "448. Co nie powinno być miejscem przechowywania kopii bezpieczeństwa danych znajdujących się na dysku twardym komputera?",
+    "correct": "d"
+  },
+  {
+    "question": "449. Którą fizyczną topologię sieci przedstawia rysunek?",
+    "correct": "a"
+  },
+  {
+    "question": "450. Która norma dotyczy okablowania strukturalnego?",
+    "correct": "b"
+  },
+  {
+    "question": "451. Maksymalna długość kabla miedzianego UTP kategorii 5e łączącego bezpośrednio dwa urządzenia sieciowe, zgodnie z standardem Fast Ethernet 100Base-TX, wynosi",
+    "correct": "a"
+  },
+  {
+    "question": "452. Który z protokołów jest protokołem połączeniowym?",
+    "correct": "b"
+  },
+  {
+    "question": "453. Który z protokołów jest używany do wymiany informacji o trasach oraz dostępności sieci pomiędzy ruterami należącymi do tego samego systemu autonomicznego?",
+    "correct": "a"
+  },
+  {
+    "question": "454. ARP (Adress Resolution Protocol) jest protokołem realizującym odwzorowanie adresu IP na",
+    "correct": "b"
+  },
+  {
+    "question": "455. Które urządzenie przedstawia rysunek?",
+    "correct": "d"
+  },
+  {
+    "question": "456. Które urządzenie należy wybrać do pomiarów mapy połączeń okablowania strukturalnego sieci lokalnej?",
+    "correct": "d"
+  },
+  {
+    "question": "457. Które urządzenie należy zastosować w sieci Ethernet, aby ograniczyć liczbę kolizji pakietów?",
+    "correct": "a"
+  },
+  {
+    "question": "458. Metoda dostępu do medium transmisyjnego z wykrywaniem kolizji w sieciach LAN jest",
+    "correct": "d"
+  },
+  {
+    "question": "459. Okablowanie pionowe w sieci strukturalnej łączy się",
+    "correct": "d"
+  },
+  {
+    "question": "460. Które polecenie systemu operacyjnego Linux pozwala sprawdzić aktualną konfigurację interfejsu sieciowego komputera?",
+    "correct": "c"
+  },
+  {
+    "question": "461. Do wykonania sieci komputerowej w pomieszczeniu wykorzystano 25 metrów skrętki UTP, 5 gniazd typu RJ45 oraz odpowiednią liczbę wtyków RJ45 niezbędnych do zarobienia 5 kabli połączeniowych typu patchcord. Jaki jest koszt wykorzystanych materiałów do wykonania sieci? Ceny jednostkowe wykorzystanych materiałów są podane w tabeli.",
+    "correct": "c"
+  },
+  {
+    "question": "462. Jaka jest maksymalna prędkość transmisji danych w sieci przy zastosowaniu skrętki kategorii 5e?",
+    "correct": "a"
+  },
+  {
+    "question": "463. Jaka jest kolejność przewodów we wtyku RJ45 zgodnie z sekwencją połączeń T568A?",
+    "correct": "d"
+  },
+  {
+    "question": "464. Ile par przewodów w standardzie 100Base-TX jest przeznaczonych do transmisji danych w obu kierunkach?",
+    "correct": "b"
+  },
+  {
+    "question": "465. Adresem rozgłoszeniowym sieci, w której pracuje host o adresie IP 195.120.252.32 i masce podsieci 255.255.255.192 jest",
+    "correct": "b"
+  },
+  {
+    "question": "466. Który zapis jest prawidłowym adresem IPv6?",
+    "correct": "b"
+  },
+  {
+    "question": "467. Który zapis jest postacią pełną maski o prefiksie 25?",
+    "correct": "c"
+  },
+  {
+    "question": "468. Jaka jest maksymalna liczba hostów, które można zaadresować w sieci o masce 255.255.255.192?",
+    "correct": "c"
+  },
+  {
+    "question": "469. Administrator musi podzielić sieć o adresie 193.115.95.0 z maską 255.255.255.0 na 8 podsieci o takiej samej liczbie adresów. Którą maskę sieci powinien zastosować administrator?",
+    "correct": "b"
+  },
+  {
+    "question": "470. Który przyrząd jest stosowany do pomiarów długości i tłumienności przewodów miedzianych?",
+    "correct": "d"
+  },
+  {
+    "question": "471. Rysunek poniżej przedstawia konfigurację zapory ogniowej w ruterze TL-WR340G. Jakie zasady konfiguracji zapory ustawiono?",
+    "correct": "c"
+  },
+  {
+    "question": "472. Urządzenia standardu 802.11g mogą pracować z maksymalną prędkością przesyłania danych do",
+    "correct": "b"
+  },
+  {
+    "question": "473. Który z wymienionych mechanizmów zapewni najwyższy poziom bezpieczeństwa sieci bezprzewodowych standardu 802.11n?",
+    "correct": "d"
+  },
+  {
+    "question": "474. Co można zaobserwować przy pomocy programu Wireshark?",
+    "correct": "d"
+  },
+  {
+    "question": "475. Administrator sieci komputerowej chce sprawdzić na komputerze z systemem operacyjnym Windows, które połączenia są obecnie zestawiane oraz porty, na których komputer nasłuchuje. W tym celu powinien zastosować polecenie",
+    "correct": "d"
+  },
+  {
+    "question": "476. Którym poleceniem systemu Linux poprawnie skonfigurowano kartę sieciową, podając adres IP i maskę sieci dla interfejsu eth1?",
+    "correct": "b"
+  },
+  {
+    "question": "477. Które polecenie rodziny systemów Windows należy zastosować, aby skonfigurować statyczny adres IP w wierszu poleceń?",
+    "correct": "a"
+  },
+  {
+    "question": "478. Który protokół jest stosowany do pobierania wiadomości e-mail z serwera poczty na komputer użytkownika",
+    "correct": "b"
+  },
+  {
+    "question": "479. Która usługa, stworzona przez firmę Microsoft, umożliwia tłumaczenie nazw komputerów na adresy internetowe?",
+    "correct": "d"
+  },
+  {
+    "question": "480. Protokół DNS odpowiada za",
+    "correct": "a"
+  },
+  {
+    "question": "481. Protokołem połączeniowym warstwy transportowej modelu ISO/OSI jest",
+    "correct": "a"
+  },
+  {
+    "question": "482. Który z profili użytkownika ulega zmianie i jest przechowywany na serwerze dla klienta pracującego w sieci Windows?",
+    "correct": "b"
+  },
+  {
+    "question": "483. Który protokół jest protokołem warstwy aplikacji modelu ISO/OSI?",
+    "correct": "a"
+  },
+  {
+    "question": "484. Które polecenie systemu operacyjnego Linux jest stosowane do śledzenia komunikacji pakietów TCP/IP lub protokołów transmitowanych lub odbieranych w sieci komputerowej, do komputerowej do której podłączony jest komputer użytkownika?",
+    "correct": "d"
+  },
+  {
+    "question": "485. Aby zainstalować serwer proxy w systemie Linux, należy zainstalować program",
+    "correct": "a"
+  },
+  {
+    "question": "486. Do zdalnego zarządzania stacjami roboczymi nie jest stosowany",
+    "correct": "b"
+  },
+  {
+    "question": "487. Atak typu hijacking na serwer sieciowy charakteryzuje się",
+    "correct": "d"
+  },
+  {
+    "question": "488. Co służy do zabezpieczenia komputera przed niepożądanym oprogramowaniem pochodzącym z Internetu?",
+    "correct": "d"
+  },
+  {
+    "question": "489. W której topologii fizycznej sieci każde urządzenie sieciowe ma dokładnie dwa połączenia, po jednym dla swoich najbliższych sąsiadów, a dane są przesyłane od jednego komputera do następnego w pętli?",
+    "correct": "d"
+  },
+  {
+    "question": "490. Która topologia fizyczna zapewnia połączenia nadmiarowe pomiędzy urządzeniami sieci?",
+    "correct": "a"
+  },
+  {
+    "question": "491. Norma PN-EN 50174 nie zawiera wytycznych dotyczących",
+    "correct": "d"
+  },
+  {
+    "question": "492. Który z protokołów jest bezpołączeniowym protokołem warstwy transportowej?",
+    "correct": "d"
+  },
+  {
+    "question": "493. IMAP jest protokołem",
+    "correct": "a"
+  },
+  {
+    "question": "494. Którego zadania NIE realizują serwery plików?",
+    "correct": "a"
+  },
+  {
+    "question": "495. Kabel typu skrętka, posiadający każdą parę przewodów w osobnym ekranie z folii, przy czym wszystkie przewody znajdują się w ekranie z folii, jest oznaczony symbolem",
+    "correct": "d"
+  },
+  {
+    "question": "496. W modelu hierarchicznym sieci, komputery użytkowników są elementami warstwy",
+    "correct": "b"
+  },
+  {
+    "question": "497. Prawidłowo zaprojektowana sieć komputerowa powinna umożliwiać rozbudowę, czyli charakteryzować się",
+    "correct": "c"
+  },
+  {
+    "question": "498. Aby umożliwić wymianę danych pomiędzy siecią w pracowni, a siecią ogólnoszkolną o innej adresacji IP, należy wykorzystać",
+    "correct": "a"
+  },
+  {
+    "question": "499. Jaki będzie koszt zakupu kabla UTP kat.5e przeznaczonego do budowy sieci komputerowej złożonej z 6 stanowisk komputerowych, w której średnia odległość stanowiska od przełącznika wynosi 9 m? Dla każdej linii kablowej należy uwzględnić 1 m zapasu kabla, a cena 1 metra kabla wynosi 1,50 zł.",
+    "correct": "b"
+  },
+  {
+    "question": "500. Przy budowie sieci przewodowej o maksymalnej szybkości transmisji 1 Gb/s, w której maksymalna odległość pomiędzy punktami sieci nie przekracza 100m, należy wykorzystać jako medium transmisyjne",
+    "correct": "a"
+  },
+  {
+    "question": "501. Które medium transmisyjne sieci LAN zaleca się do zastosowania w zabytkowych budynkach?",
+    "correct": "b"
+  },
+  {
+    "question": "502. Do zakończenia skrętki wtykiem 8P8C jest stosowane",
+    "correct": "d"
+  },
+  {
+    "question": "503. Zestaw narzędzi do montażu okablowania miedzianego typu \"skrętka\" w sieci lokalnej powinien zawierać",
+    "correct": "d"
+  },
+  {
+    "question": "504. Przedstawiony na rysunku wtyk (złącze męskie modularne) jest zakończeniem kabla",
+    "correct": "c"
+  },
+  {
+    "question": "505. Parametrem określającym o ile zmniejszy się moc sygnału w danej parze przewodów po przejściu przez cały tor kablowy, jest",
+    "correct": "b"
+  },
+  {
+    "question": "506. Który błąd okablowania jest widoczny na wyświetlaczu testera pokazującego mapę połączeń żył kabla typu skrętka?",
+    "correct": "b"
+  },
+  {
+    "question": "507. Wskaż domyślną maskę dla adresu IP klasy B",
+    "correct": "c"
+  },
+  {
+    "question": "508. Który z podanych adresów jest adresem klasy C?",
+    "correct": "d"
+  },
+  {
+    "question": "509. Do ilu sieci należą komputery o podanych w tabeli adresach IP i standardowej masce sieci?",
+    "correct": "c"
+  },
+  {
+    "question": "510. Ile maksymalnie komputerów może być zaadresowanych w podsieci o adresie 192.168.1.0/25?",
+    "correct": "b"
+  },
+  {
+    "question": "511. Polecenie systemu Windows stosowane do sprawdzenia trasy, po której są przesyłane pakiety w sieci, to",
+    "correct": "b"
+  },
+  {
+    "question": "512. Które urządzenie należy zainstalować w serwerze, by można było automatycznie archiwizować dane na taśmach magnetycznych?",
+    "correct": "a"
+  },
+  {
+    "question": "513. Którą z opcji menu przełącznika należy wybrać, by przywrócić mu ustawienia fabryczne?",
+    "correct": "a"
+  },
+  {
+    "question": "514. Zarządzanie pasmem (ang. bandwidth control) w przełączniku to usługa",
+    "correct": "b"
+  },
+  {
+    "question": "515. Przynależność komputera do konkretnej sieci wirtualnej NIE może być określona na podstawie",
+    "correct": "c"
+  },
+  {
+    "question": "516. Które porty należy odblokować w zaporze sieciowej komputera, aby można było korzystać z zainstalowanej usługi FTP?",
+    "correct": "a"
+  },
+  {
+    "question": "517. Aby sygnały dwóch routerów w sieci WiFi standardu 802.11g nie zakłócały się wzajemnie, należy ustawić kanały o numerach",
+    "correct": "b"
+  },
+  {
+    "question": "518. Które cyfry należy wprowadzić na klawiaturze telefonu podłączonego do bramki VoIP po uprzednim wpisaniu *** by wprowadzić adres bramy domyślnej sieci?",
+    "correct": "d"
+  },
+  {
+    "question": "519. Zalecana wielkość pamięci RAM dla systemu operacyjnego Windows Server 2008 to co najmniej",
+    "correct": "d"
+  },
+  {
+    "question": "520. W jaki sposób skonfigurować w systemie Windows Server 2008 ustawienia protokołu TCP/IP karty sieciowej, by komputer należał równocześnie do dwóch sieci lokalnych o różnych adresach IP?",
+    "correct": "c"
+  },
+  {
+    "question": "521. Którą usługę należy zainstalować na serwerze, by było możliwe korzystanie z nazw domenowych?",
+    "correct": "b"
+  },
+  {
+    "question": "522. Do której grupy w systemie Windows Server 2008 należy przydzielić użytkownika odpowiedzialnego tylko za archiwizowanie danych przechowywanych na dysku serwera?",
+    "correct": "c"
+  },
+  {
+    "question": "523. Które polecenie systemu Windows Server 2008 umożliwia promowanie serwera do roli kontrolera domeny?",
+    "correct": "c"
+  },
+  {
+    "question": "524. Zadaniem programu Wireshark jest",
+    "correct": "b"
+  },
+  {
+    "question": "525. Administrator chce udostępnić w sieci trzem użytkownikom należącym do grupy Serwisanci tylko folder C:\\instrukcje. Które z rozwiązań powinien zastosować?",
+    "correct": "d"
+  },
+  {
+    "question": "526. W technologii Ethernet protokół dostępu do nośnika CSMA/CD jest metodą z",
+    "correct": "c"
+  },
+  {
+    "question": "527. Które porty należy odblokować w ustawieniach zapory sieciowej na komputerze z zainstalowaną usługą serwera sieci Web?",
+    "correct": "b"
+  },
+  {
+    "question": "528. Do którego portu należy podłączyć kabel sieci zewnętrznej, by uzyskać pośredni dostęp do Internetu?",
+    "correct": "d"
+  },
+  {
+    "question": "529. Która z topologii fizycznych sieci komputerowej jest przedstawiona na rysunku?",
+    "correct": "d"
+  },
+  {
+    "question": "530. Ile par przewodów skrętki miedzianej kategorii 5e wykorzystuje się do przesyłu danych w standardzie sieci Ethernet 100Base-TX?",
+    "correct": "b"
+  },
+  {
+    "question": "531. Adresem IPv6 autokonfiguracji łącza jest:",
+    "correct": "c"
+  },
+  {
+    "question": "532. Który z protokołów wykorzystuje porty 20 i 21?",
+    "correct": "a"
+  },
+  {
+    "question": "533. Które protokoły są protokołami warstwy transportowej modelu ISO/OSI?",
+    "correct": "c"
+  },
+  {
+    "question": "534. Ile bitów ma adres logiczny IPv6?",
+    "correct": "d"
+  },
+  {
+    "question": "535. Rysunek przedstawia",
+    "correct": "d"
+  },
+  {
+    "question": "536. Jak jest nazywana transmisja dwukierunkowa w sieci Ethernet?",
+    "correct": "d"
+  },
+  {
+    "question": "537. Ile adresów IP jest potrzebnych do zaadresowania 4 komputerów podłączonych do przełącznika tak, aby mogły się komunikować ze sobą?",
+    "correct": "c"
+  },
+  {
+    "question": "538. Urządzeniem stosowanym do połączenia 6 komputerów w sieć lokalną jest:",
+    "correct": "d"
+  },
+  {
+    "question": "539. Do którego urządzenia należy podłączyć komputery, aby pracowały w różnych domenach rozgłoszeniowych?",
+    "correct": "b"
+  },
+  {
+    "question": "540. Centralny punkt, z którego rozprowadzane jest okablowanie szkieletowe, to punkt",
+    "correct": "d"
+  },
+  {
+    "question": "541. Oblicz koszt wykonania okablowania strukturalnego od 5 punktów abonenckich do panelu krosowego wraz z wykonaniem kabli połączeniowych dla stacji roboczych. W tym celu wykorzystano 50 m skrętki UTP. Punkt abonencki składa się z 2 gniazd typu RJ45.",
+    "correct": "b"
+  },
+  {
+    "question": "542. Ile maksymalnie urządzeń można zaadresować w sieci o adresacji IPv4 klasy C?",
+    "correct": "b"
+  },
+  {
+    "question": "543. W firmie został zastosowany adres klasy B do podziału na 100 podsieci. Każda z podsieci ma dostępnych maksymalnie 510 adresów IP. Która maska została zastosowana do wyznaczenia podsieci?",
+    "correct": "d"
+  },
+  {
+    "question": "544. Który adres IPv4 określa urządzenie pracujące w sieci o adresie 14.36.64.0/20?",
+    "correct": "c"
+  },
+  {
+    "question": "545. Który z adresów IPv4 wraz z prefiksem jest adresem sieci?",
+    "correct": "b"
+  },
+  {
+    "question": "546. Odpowiednikiem maski 255.255.252.0 jest prefiks",
+    "correct": "a"
+  },
+  {
+    "question": "547. Zmniejszenie liczby jedynek w masce umożliwi zaadresowanie",
+    "correct": "c"
+  },
+  {
+    "question": "548. Na rysunku jest przedstawiona konfiguracja",
+    "correct": "a"
+  },
+  {
+    "question": "549. Które określenie dotyczące ruterów jest prawdziwe?",
+    "correct": "c"
+  },
+  {
+    "question": "550. Jak skonfigurować zaporę Windows, zachowując zasady bezpieczeństwa, aby za pomocą polecenia ping było możliwe sprawdzenie poprawności komunikacji z innymi urządzeniami pracującymi w sieci?",
+    "correct": "c"
+  },
+  {
+    "question": "551. Które kanały najlepiej wybrać dla trzech sieci WLAN 2,4 GHz, aby wyeliminować ich wzajemne zakłócenia?",
+    "correct": "b"
+  },
+  {
+    "question": "552. Informacje przedstawione na rysunku są wynikiem działania polecenia",
+    "correct": "b"
+  },
+  {
+    "question": "553. Które polecenie należy wydać w systemie Windows, aby sprawdzić tabelę translacji adresów IP na adresy fizyczne używane przez protokół rozróżniania adresów?",
+    "correct": "a"
+  },
+  {
+    "question": "554. Na rysunku jest przedstawiony fragment procesu komunikacji z serwerem przechwyconej przez program Wireshark. Który to serwer?",
+    "correct": "c"
+  },
+  {
+    "question": "555. Usługa, która pozwala na pobieranie i przesyłanie plików na serwer, to",
+    "correct": "a"
+  },
+  {
+    "question": "556. Udostępnianie linuksowych usług drukowania oraz serwera plików stacjom roboczym Windows, OS X, Linux umożliwia serwer",
+    "correct": "b"
+  },
+  {
+    "question": "557. Jak nazywa się w systemie Windows profil użytkownika tworzony podczas pierwszego logowania do komputera i przechowywany na lokalnym dysku twardym komputera, a każda jego zmiana dotyczy jedynie komputera, na którym została wprowadzona?",
+    "correct": "a"
+  },
+  {
+    "question": "558. Domyślnie anonimowy dostęp do zasobów serwera FTP umożliwia",
+    "correct": "c"
+  },
+  {
+    "question": "559. Serwer Windows z zainstalowaną usługą Active Directory nazywa się",
+    "correct": "d"
+  },
+  {
+    "question": "560. Usługa, za pomocą której można pracować zdalnie na komputerze z systemem Windows z innego komputera z systemem Windows podłączonego do tej samej sieci lub do Internetu, to",
+    "correct": "c"
+  },
+  {
+    "question": "561. Który protokół warstwy aplikacji jest stosowany do zarządzania urządzeniami sieciowymi za pośrednictwem sieci?",
+    "correct": "d"
+  },
+  {
+    "question": "562. Który protokół służy do szyfrowanego terminalowego łączenia się ze zdalnym komputerem?",
+    "correct": "c"
+  },
+  {
+    "question": "563. W której warstwie modelu ISO/OSI są stosowane adresy logiczne?",
+    "correct": "b"
+  },
+  {
+    "question": "564. Ramka z danymi wysłanymi z komputera PC1 do serwera www znajduje się pomiędzy ruterem R1 a ruterem R2 (punkt A). Które adresy są w niej zawarte?",
+    "correct": "a"
+  },
+  {
+    "question": "565. Która usługa pozwala rejestrować i rozpoznawać nazwy NetBIOS jako używane w sieci adresy IP?",
+    "correct": "b"
+  },
+  {
+    "question": "566. Ataki mające na celu zatrzymanie działania aplikacji i procesów zachodzących w urządzeniu sieciowym to ataki typu",
+    "correct": "a"
+  },
+  {
+    "question": "567. Który zapis jest oznaczeniem adresu strony internetowej i przypisanego go niej portu?",
+    "correct": "c"
+  },
+  {
+    "question": "568. Rysunek przedstawia konfigurację karty sieciowej dla urządzenia o adresie IP 10.15.89.104/25. Wynika z niego, że",
+    "correct": "d"
+  },
+  {
+    "question": "569. Która topologia fizyczna jest stosowana w sieciach o topologii logicznej Token Ring?",
+    "correct": "d"
+  },
+  {
+    "question": "570. Międzynarodowa Organizacja Normalizacyjna, która opracowała 7-warstwowy Model Referencyjny Połączonych Systemów otwartych, to",
+    "correct": "b"
+  },
+  {
+    "question": "571. Protokołem wykorzystywanym przy rozgłaszaniu grupowym, za pomocą którego hosty zgłaszają swoje członkostwo, jest",
+    "correct": "b"
+  },
+  {
+    "question": "572. Który z wymienionych protokołów odwzorowuje 48-bitowy fizyczny adres MAC na 32-bitowy adres IP?",
+    "correct": "d"
+  },
+  {
+    "question": "573. Który protokół jest wykorzystywany tylko w sieciach lokalnych, w których pracują komputery z systemami operacyjnymi firmy Microsoft?",
+    "correct": "c"
+  },
+  {
+    "question": "574. Do połączenia lokalnej sieci bezprzewodowej z siecią przewodową jest stosowany",
+    "correct": "d"
+  },
+  {
+    "question": "575. Na którym rysunku został przedstawiony panel krosowniczy?",
+    "correct": "b"
+  },
+  {
+    "question": "576. Karta Sieciowa widoczna na rysunku może przesyłać dane z maksymalną prędkością",
+    "correct": "b"
+  },
+  {
+    "question": "577. Który z wymienionych elementów jest elementem pasywnym sieci?",
+    "correct": "c"
+  },
+  {
+    "question": "578. Symbol graficzny przedstawiony na rysunku oznacza",
+    "correct": "c"
+  },
+  {
+    "question": "579. Które urządzenie umożliwia podłączenie kabla światłowodowego użytego w okablowaniu pionowym sieci z przełącznikiem posiadającym wyłącznie gniazda RJ45?",
+    "correct": "d"
+  },
+  {
+    "question": "580. Jaki będzie całkowity koszt robocizny montażu 20 modułów RJ45 ze złączem krawędziowym narzędziowym na przewodach 4-parowych, jeżeli stawka godzinowa montera wynosi 15 zł/h, a według tabeli KNR czas montażu jednego modułu to 0,10 r-g?",
+    "correct": "c"
+  },
+  {
+    "question": "581. Kabel przedstawiony na rysunku może być wykorzystany do budowy okablowania sieci standardu",
+    "correct": "d"
+  },
+  {
+    "question": "582. Która z wymienionych cech kabla koncentrycznego RG-58 spowodowała, że nie jest on obecnie wykorzystywany do budowy lokalnych sieci komputerowych?",
+    "correct": "b"
+  },
+  {
+    "question": "583. Którego narzędzia trzeba użyć do zarobienia końcówek kabla UTP w module keystone ze stykami typu 110?",
+    "correct": "c"
+  },
+  {
+    "question": "584. Jaka jest wartość maksymalnego rozplotu kabla UTP we wtyku RJ45 zgodnie z normą PN-EN 50173?",
+    "correct": "b"
+  },
+  {
+    "question": "585. Złącze SC należy zamontować na kablu",
+    "correct": "a"
+  },
+  {
+    "question": "586. Zgodnie z normą PN-EN 50174 dopuszczalna łączna długość kabla połączeniowego pomiędzy punktem abonenckim a komputerem i kabla krosowniczego (A+C) wynosi",
+    "correct": "d"
+  },
+  {
+    "question": "587. Zgodnie z normą PN-EN 50174 maksymalna długość przebiegu kabla poziomego kategorii 6 pomiędzy punktem abonenckim a punktem dystrybucyjnym w panelu krosowym wynosi",
+    "correct": "a"
+  },
+  {
+    "question": "588. Który parametr okablowania strukturalnego określa stosunek mocy sygnału testowego w jednej z par do mocy sygnału wyindukowanego w sąsiedniej parze na tym samym końcu kabla?",
+    "correct": "b"
+  },
+  {
+    "question": "589. Kabel sieciowy zakończony wtykami RJ45 sprawdzano diodowym testerem okablowania. Na testerze diody LED zapalały się kolejno oprócz diod oznaczonych numerami 2 i 3, które zapalały się równocześnie na jednostce głównej testera, a nie zapalały się na jednostce zdalnej. Co było tego przyczyną?",
+    "correct": "a"
+  },
+  {
+    "question": "590. Który z wymienionych adresów IP należy do klasy C?",
+    "correct": "d"
+  },
+  {
+    "question": "591. Wartość najstarszych trzech bitów adresu IP w systemie binarnym wynosi 010. Jest to adres",
+    "correct": "a"
+  },
+  {
+    "question": "592. Sieć lokalna ma adres IP 192.168.0.0/25. Który adres IP jest adresem stacji roboczej należącej do tej sieci?",
+    "correct": "c"
+  },
+  {
+    "question": "593. Który z adresów IP jest adresem publicznym?",
+    "correct": "c"
+  },
+  {
+    "question": "594. Wynik działania którego polecenia systemu Windows przedstawia rysunek?",
+    "correct": "a"
+  },
+  {
+    "question": "595. Wynikiem wykonania polecenia arp -a 192.168.1.1 systemu MS Windows jest wyświetlenie",
+    "correct": "c"
+  },
+  {
+    "question": "596. Która funkcja przełącznika zarządzalnego umożliwia łączenie przełączników równocześnie kilkoma połączeniami fizycznymi w jedno połączenie logiczne w celu uzyskania większej przepustowości łącza?",
+    "correct": "b"
+  },
+  {
+    "question": "597. Przycisk umieszczony na obudowie rutera, którego opis znajduje się w ramce, jest stosowany w celu",
+    "correct": "d"
+  },
+  {
+    "question": "598. Na których portach brama internetowa musi przepuszczać ruch, aby użytkownicy sieci lokalnej mogli pobierać pliki z serwera FTP?",
+    "correct": "a"
+  },
+  {
+    "question": "599. W systemie Linux narzędziem, które pokazuje trasę jaką pokonują pakiety od miejsca źródła do miejsca przeznaczenia, procentowy udział strat oraz informację na temat opóźnień pakietów, jest",
+    "correct": "a"
+  },
+  {
+    "question": "600. Który program został zastosowany w systemie Linux do szybkiego skanowania sieci?",
+    "correct": "b"
+  },
+  {
+    "question": "601. W którym rodzaju członkostwa w VLAN port może być członkiem wielu sieci VLAN?",
+    "correct": "a"
+  },
+  {
+    "question": "602. Aby móc tworzyć konta użytkowników, komputerów i innych obiektów oraz przechowywać centralnie informacje o nich, należy na serwerze Windows zainstalować rolę",
+    "correct": "b"
+  },
+  {
+    "question": "603. Który parametr polecenia ipconfig w systemie Windows odnawia konfigurację adresów IP?",
+    "correct": "a"
+  },
+  {
+    "question": "604. Która usługa musi być uruchomiona w sieci, aby można było na stacji roboczej automatycznie uzyskać adres IP?",
+    "correct": "c"
+  },
+  {
+    "question": "605. W zasadach haseł w systemie Windows Server jest włączona opcja . Z co najmniej ilu znaków musi się składać hasło użytkownika?",
+    "correct": "b"
+  },
+  {
+    "question": "606. Protokół odpowiedzialny za przesyłanie dokumentów hipertekstowych to",
+    "correct": "d"
+  },
+  {
+    "question": "607. Jakiego typu rekord jest tworzony automatycznie w momencie utworzenia strefy wyszukiwania do przodu w konfiguracji serwera DNS w systemach Windows Server?",
+    "correct": "b"
+  },
+  {
+    "question": "608. Co jest przyczyną pojawienia się na ekranie komputera komunikatu, że system wykrył konflikt adresów IP?",
+    "correct": "c"
+  },
+  {
+    "question": "609. Która z topologii przedstawionych na rysunkach jest topologią siatki?",
+    "correct": "a"
+  },
+  {
+    "question": "610. W której topologii sieci fizycznej każdy komputer jest połączony z dokładnie dwoma sąsiednimi komputerami, bez dodatkowych urządzeń aktywnych?",
+    "correct": "d"
+  },
+  {
+    "question": "611. Norma TIA/EIA-568-B.2 określa specyfikację parametrów transmisyjnych",
+    "correct": "d"
+  },
+  {
+    "question": "612. Która polska norma określa standardy okablowania strukturalnego?",
+    "correct": "b"
+  },
+  {
+    "question": "613. User Datagram Protocol (UDP) jest protokołem",
+    "correct": "a"
+  },
+  {
+    "question": "614. Który z symboli oznacza przełącznik?",
+    "correct": "d"
+  },
+  {
+    "question": "615. Urządzeniem sieciowym przedstawionym na schemacie sieci jest",
+    "correct": "a"
+  },
+  {
+    "question": "616. Które urządzenie sieciowe zostało przedstawione na rysunku?",
+    "correct": "a"
+  },
+  {
+    "question": "617. Ile punktów abonenckich (2 x RJ45), zgodnie z zaleceniami normy PN-EN 50167, powinno znajdować się w pomieszczeniu biurowym o powierzchni 49 m2?",
+    "correct": "c"
+  },
+  {
+    "question": "618. Który z wymienionych programów umożliwi sporządzenie rysunku technicznego przedstawiającego plan instalacji logicznej sieci lokalnej budynku?",
+    "correct": "a"
+  },
+  {
+    "question": "619. Które urządzenie aktywne umożliwi połączenie z siecą lokalną za pomocą kabla UTP 15 komputerów, drukarki sieciowej oraz rutera?",
+    "correct": "b"
+  },
+  {
+    "question": "620. Które urządzenie zwiększy zasięg sieci bezprzewodowej?",
+    "correct": "c"
+  },
+  {
+    "question": "621. Które urządzenie umożliwi podłączenie drukarki nieposiadającej karty sieciowej do lokalnej sieci komputerowej?",
+    "correct": "d"
+  },
+  {
+    "question": "622. Na podstawie przedstawionego cennika oblicz, jaki będzie koszt brutto jednego dwumodułowego podwójnego natynkowego gniazda abonenckiego.",
+    "correct": "c"
+  },
+  {
+    "question": "623. W pomieszczeniu biurowym należy zainstalować 5 podwójnych gniazd abonenckich. Średnia odległość gniazda abonenckiego od lokalnego punktu dystrybucyjnego wynosi 10m. Jaki będzie przybliżony koszt zakupu kabla UTP kategorii 5e przeznaczonego do budowy sieci lokalnej, jeżeli cena brutto 1m kabla UTP kategorii 5e wynosi 1,60 zł?",
+    "correct": "b"
+  },
+  {
+    "question": "624. W stacjach roboczych są zainstalowane karty sieciowe Ethernet 10/100/1000 ze złączem RJ45. Które medium transmisyjne należy wybrać do budowy sieci komputerowej, aby zapewnić pracę z najwyższą przepustowością?",
+    "correct": "b"
+  },
+  {
+    "question": "625. Kabel typu skrętka, w której pojedyncza para żył jest foliowana oraz całość kabla jest w ekranie z folii i siatki, oznacza się symbolem",
+    "correct": "d"
+  },
+  {
+    "question": "626. Jakie są wartości pasma częstotliwości oraz maksymalnej szybkości transmisji danych w standardzie 802.11g WiFi?",
+    "correct": "c"
+  },
+  {
+    "question": "627. Do jakiego rodzaju wtyków jest stosowana przedstawiona na rysunku zaciskarka?",
+    "correct": "b"
+  },
+  {
+    "question": "628. Który z wymienionych adresów IPv4 należy do klasy B?",
+    "correct": "a"
+  },
+  {
+    "question": "629. Który z adresów IP ma przypisaną maskę w postaci pełnej, wynikającą z klasy adresu?",
+    "correct": "d"
+  },
+  {
+    "question": "630. Do ilu sieci należą komputery o adresach IP i maskach sieci przedstawionych w tabeli?",
+    "correct": "b"
+  },
+  {
+    "question": "631. Jaka jest liczba adresów, które można przydzielić urządzeniom pracującym w sieci o adresie IP 192.168.20.0/26?",
+    "correct": "c"
+  },
+  {
+    "question": "632. Który z adresów jest adresem rozgłoszeniowym sieci 172.16.64.0/26?",
+    "correct": "b"
+  },
+  {
+    "question": "633. Do sprawdzania statystyk protokołów TCP/IP oraz aktualnych połączeń sieciowych w systemach rodziny Windows jest stosowane polecenie",
+    "correct": "d"
+  },
+  {
+    "question": "634. W dokumentacji powykonawczej fizycznej i logicznej struktury sieci lokalnej musi znajdować się",
+    "correct": "d"
+  },
+  {
+    "question": "635. Którym elementem sieci SIP jest telefon IP?",
+    "correct": "c"
+  },
+  {
+    "question": "636. Które urządzenie diagnostyczne jest przedstawione na rysunku i opisane w specyfikacji przedstawionej w tabeli?",
+    "correct": "d"
+  },
+  {
+    "question": "637. Jest to najnowsza wersja klienta wieloplatformowego, cenionego przez użytkowników na całym świecie, serwera wirtualnej sieci prywatnej, pozwalającego na zestawienie pomiędzy hostem a komputerem lokalnym połączenia, obsługującego uwierzytelnianie z użyciem kluczy, jak również certyfikatów, nazwy użytkownika i hasła, a także, w wersji dla Windows, dodatkowych kart. Który z programów został opisany przed chwilą?",
+    "correct": "c"
+  },
+  {
+    "question": "638. Protokołem sieciowym definiującym mechanizmy stosowane do zarządzania urządzeniami sieciowymi jest",
+    "correct": "d"
+  },
+  {
+    "question": "639. Zainstalowanie serwera stron internetowych w rodzinie systemów Windows Server umożliwia rola",
+    "correct": "c"
+  },
+  {
+    "question": "640. Utworzenie kontrolera domeny w rodzinie systemów Windows Server na lokalnym serwerze wymaga zainstalowania roli",
+    "correct": "b"
+  },
+  {
+    "question": "641. Które polecenie uruchamia edytor zasad grup w rodzinie systemów Windows Server?",
+    "correct": "a"
+  },
+  {
+    "question": "642. Który protokół pocztowy umożliwia między innymi przechowywanie odbieranych wiadomości e-mail na serwerze, zarządzanie wieloma folderami, usuwanie wiadomości i przenoszenie ich pomiędzy folderami?",
+    "correct": "c"
+  },
+  {
+    "question": "643. Internet Relay Chat (IRC) to protokół stosowany do",
+    "correct": "d"
+  },
+  {
+    "question": "644. Standard Transport Layer Security (TLS) to rozwinięcie protokołu",
+    "correct": "b"
+  },
+  {
+    "question": "645. Sposób działania którego protokołu został przedstawiony na rysunku?",
+    "correct": "a"
+  },
+  {
+    "question": "646. Adres IP serwera, na którym jest zainstalowana domena www.wp.pl to 212.77.98.9. Co jest przyczyną sytuacji przedstawionej na zrzucie ekranowym?",
+    "correct": "c"
+  },
+  {
+    "question": "647. Rysunek przedstawia konfigurację protokołu TCP/IP serwera i stacji roboczej. Na serwerze jest zainstalowana rola serwera DNS. Polecenie ping www.cke.edu.pl uruchomione na serwerze daje wynik pozytywny, a na stacji roboczej negatywny. Aby usługa DNS na stacji działała prawidłowo, należy zmienić adres",
+    "correct": "d"
+  },
+  {
+    "question": "648. Wskaż, które zdanie opisujące zaporę sieciową jest fałszywe",
+    "correct": "a"
+  },
+  {
+    "question": "649. Metoda dostępu do medium CSMA/CA jest stosowana w sieci o standardzie",
+    "correct": "d"
+  },
+  {
+    "question": "650. Sieć komputerowa ograniczająca się do komputerów wyłącznie jednej organizacji, w której mogą istnieć usługi, realizowane przez serwery w sieci LAN, np. strony WWW, poczta elektroniczna to",
+    "correct": "a"
+  },
+  {
+    "question": "651. Jakim kolorem jest oznaczona izolacja żyły skrętki w pierwszym pinie wtyku RJ45 w sekwencji połączeń T568A?",
+    "correct": "a"
+  },
+  {
+    "question": "652. Który ze standardów wraz z odpowiednią kategorią skrętki są dopasowane tak, aby obsługiwały maksymalny transfer danych?",
+    "correct": "b"
+  },
+  {
+    "question": "653. Pierwsze znaki heksadecymalne adresu IPv6 typu link-local to",
+    "correct": "b"
+  },
+  {
+    "question": "654. Jaka jest kolejność części adresu globalnego IPv6 typu unicast przedstawionego na rysunku?",
+    "correct": "d"
+  },
+  {
+    "question": "655. Który protokół jest stosowany do terminalowego łączenia się ze zdalnymi urządzeniami zapewniający transfer zaszyfrowanych danych?",
+    "correct": "b"
+  },
+  {
+    "question": "656. Ile symboli przełączników i ruterów jest na schemacie?",
+    "correct": "b"
+  },
+  {
+    "question": "657. Zjawisko przesłuchu, występujące w sieciach komputerowych, polega na",
+    "correct": "d"
+  },
+  {
+    "question": "658. Algorytm, który jest stosowany w celu sprawdzenia czy ramka Ethernet nie zawiera błędów, to",
+    "correct": "c"
+  },
+  {
+    "question": "659. Zestaw reguł definiujących sposób przesyłania informacji w sieci opisuje",
+    "correct": "b"
+  },
+  {
+    "question": "660. Akronim określający usługi, których zadaniem jest między innymi nadawanie priorytetu przesyłanym pakietom oraz kształtowanie przepustowości w sieci, to",
+    "correct": "d"
+  },
+  {
+    "question": "661. Jak nazywany jest proces dokładania do danych z warstwy aplikacji informacji związanych z protokołami działającymi na poszczególnych warstwach modelu sieciowego?",
+    "correct": "b"
+  },
+  {
+    "question": "662. Urządzenie sieciowe służące do połączenia pięciu komputerów ze sobą w tej samej sieci, tak aby nie występowały kolizje pakietów, to",
+    "correct": "c"
+  },
+  {
+    "question": "663. Element zamontowany na stałe u abonenta, w którym znajduje się zakończenie okablowania strukturalnego poziomego, to",
+    "correct": "d"
+  },
+  {
+    "question": "664. W celu bezpiecznego połączenia z serwerem firmowym przez Internet, tak aby mieć dostęp do zasobów firmowych, należy zastosować oprogramowanie klienta",
+    "correct": "a"
+  },
+  {
+    "question": "665. Który z adresów jest adresem klasy B?",
+    "correct": "b"
+  },
+  {
+    "question": "666. Administrator musi podzielić adres 10.0.0.0/16 na 4 równe podsieci o tej samej liczbie hostów. Jaką maskę będą miały te podsieci?",
+    "correct": "c"
+  },
+  {
+    "question": "667. Aby w adresie IPv4 wyznaczyć długość prefiksu adresu sieci, należy sprawdzić",
+    "correct": "c"
+  },
+  {
+    "question": "668. Który z adresów IP jest adresem hosta pracującego w sieci o adresie 192.168.160.224/28?",
+    "correct": "b"
+  },
+  {
+    "question": "669. Który adres podsieci jest prawidłowy po pożyczeniu 4 bitów z części hosta z adresu klasowego 192.168.1.0?",
+    "correct": "d"
+  },
+  {
+    "question": "670. Jednym ze sposobów utrudnienia osobom niepowołanym dostępu do sieci bezprzewodowej jest",
+    "correct": "c"
+  },
+  {
+    "question": "671. Który z protokołów jest stosowany w telefonii internetowej?",
+    "correct": "c"
+  },
+  {
+    "question": "672. Z którym protokołem są związane pojęcia \"Sequence number\" i \"Acknowledgment number\"?",
+    "correct": "a"
+  },
+  {
+    "question": "673. Aby odczytać adres serwera DNS w konfiguracji karty sieciowej systemu z rodziny Windows należy wykonać polecenie",
+    "correct": "d"
+  },
+  {
+    "question": "674. Na rysunku przedstawiono konfigurację karty sieciowej, której adres MAC ma wartość",
+    "correct": "c"
+  },
+  {
+    "question": "675. Który ze znaków w systemach z rodziny Windows należy zastosować podczas udostępniania zasobu ukrytego w sieci?",
+    "correct": "d"
+  },
+  {
+    "question": "676. Który protokół jest wykorzystywany do przesyłania plików bez nawiązania połączenia?",
+    "correct": "d"
+  },
+  {
+    "question": "677. Aby wdrożyć usługę zdalnej instalacji systemów operacyjnych na stacjach roboczych należy w Windows Server zainstalować rolę",
+    "correct": "d"
+  },
+  {
+    "question": "678. Serwerem DNS w systemie Linux jest",
+    "correct": "b"
+  },
+  {
+    "question": "679. Najszybszym sposobem wstawienia skrótu do konkretnego programu na pulpitach wszystkich użytkowników domenowych jest",
+    "correct": "b"
+  },
+  {
+    "question": "680. Użytkownicy z grupy Pracownicy nie mogą drukować dokumentów przy użyciu serwera wydruku na systemie operacyjnym Windows Server. Mają oni przydzielone uprawnienia tylko \"Zarządzanie dokumentami\". Co należy zrobić, aby rozwiązać opisany problem?",
+    "correct": "a"
+  },
+  {
+    "question": "681. Aby utworzyć las w strukturze katalogowej AD DS (Active Directory Domain Services), należy utworzyć co najmniej",
+    "correct": "a"
+  },
+  {
+    "question": "682. Protokół, który tłumaczy nazwy domenowe na adresy IP, to",
+    "correct": "a"
+  },
+  {
+    "question": "683. Który zestaw protokołów jest stosowany w procesie komunikacji hosta z serwerem WWW po wpisaniu adresu strony w przeglądarce internetowej hosta?",
+    "correct": "c"
+  },
+  {
+    "question": "684. Aby mieć pewność, że komputer otrzyma od serwera DHCP konkretny adres IP trzeba na serwerze zdefiniować",
+    "correct": "b"
+  },
+  {
+    "question": "685. Komputer lokalny ma adres 192.168.0.5. Po uruchomieniu strony internetowej z tego komputera, która identyfikuje adresy w sieci uzyskano informację, że adresem komputera jest 195.182.130.24. Oznacza to, że",
+    "correct": "b"
+  },
+  {
+    "question": "686. Komputer utracił połączenie z siecią komputerową. Jakie działanie należy wykonać w pierwszej kolejności, aby rozwiązać problem?",
+    "correct": "d"
+  },
+  {
+    "question": "687. Użytkownicy korzystający z sieci Wi-Fi zaobserwowali zaburzenia i częstą utratę połączenia z siecią. Powodem takiego stanu rzeczy może być",
+    "correct": "a"
+  },
+  {
+    "question": "688. Szkodliwe oprogramowanie, które w celu umożliwienia ataku na zainfekowany komputer może np. otworzyć jeden z portów, to",
+    "correct": "a"
+  },
+  {
+    "question": "689. Fizyczna topologia sieci komputerowej, którą przedstawiono na rysunku, to topologia",
+    "correct": "c"
+  },
+  {
+    "question": "690. Topologia fizyczna, w której każdy węzeł ma własne połączenia z wszystkimi pozostałymi węzłami, to topologia",
+    "correct": "a"
+  },
+  {
+    "question": "691. Zgodnie z normą PN-EN 50174 okablowanie poziome w systemie okablowania strukturalnego to część okablowania pomiędzy",
+    "correct": "b"
+  },
+  {
+    "question": "692. Medium transmisyjne o symbolu S/FTP oznacza skrętkę",
+    "correct": "a"
+  },
+  {
+    "question": "693. W metodzie dostępu do nośnika CSMA/CD (Carrier Sense Multiple Access with Collision Detection) stacja, która zamierza rozpocząć nadawanie, nasłuchuje czy w sieci odbywa się ruch, a następnie",
+    "correct": "c"
+  },
+  {
+    "question": "694. Który zestaw protokołów jest charakterystyczny dla warstwy internetowej modelu TCP/IP?",
+    "correct": "a"
+  },
+  {
+    "question": "695. Protokół TCP (Transmission Control Protocol) działa w trybie",
+    "correct": "c"
+  },
+  {
+    "question": "696. Które urządzenie sieciowe warstwy łącza danych modelu OSI analizuje zawarte w ramce Ethernet adresy MAC i na tej podstawie podejmuje decyzję, o przesłaniu sygnału z jednego do drugiego segmentu sieci lub o jego zablokowaniu?",
+    "correct": "a"
+  },
+  {
+    "question": "697. Symbol którego urządzenia sieci komputerowej został przedstawiony na rysunku?",
+    "correct": "d"
+  },
+  {
+    "question": "698. Który element szafy krosowniczej jest przedstawiony na rysunku?",
+    "correct": "b"
+  },
+  {
+    "question": "699. W schemacie logicznym okablowania strukturalnego, zgodnie z terminologią polską zawartą w normie PN-EN 50174, właściwością kondygnacyjnego punktu dystrybucyjnego jest to, że",
+    "correct": "b"
+  },
+  {
+    "question": "700. Jakie powinno być rozmieszczenie gniazd komputerowych RJ45 w stosunku do powierzchni biurowej zgodnie z normą PN-EN 50174?",
+    "correct": "b"
+  },
+  {
+    "question": "701. Centralny punkt, z którego rozprowadzane jest okablowanie szkieletowe, to punkt",
+    "correct": "d"
+  },
+  {
+    "question": "702. Na rysunkach technicznych instalacji sieci komputerowej wraz z dedykowaną jej instalacją elektryczną symbolem przedstawionym na rysunku oznacza się gniazdo",
+    "correct": "d"
+  },
+  {
+    "question": "703. Który adres IPv6 jest wykorzystywany jako adres link-local w procesie autokonfiguracji urządzeń?",
+    "correct": "b"
+  },
+  {
+    "question": "704. Jaki zakres adresów obejmują adresy klasy C?",
+    "correct": "c"
+  },
+  {
+    "question": "705. Za pomocą ilu liczb szesnastkowych zapisuje się pełną postać adresu IPv6?",
+    "correct": "a"
+  },
+  {
+    "question": "706. Jaki jest adres rozgłoszeniowy sieci o adresie IP 192.168.10.0/24?",
+    "correct": "d"
+  },
+  {
+    "question": "707. Jeżeli sieć 172.16.6.0 podzieli się z użyciem maski /27 na maksymalną ilość podsieci, to ile hostów będzie można zaadresować w każdej z nich?",
+    "correct": "b"
+  },
+  {
+    "question": "708. Połączenie typu trunk dwóch przełączników daje możliwość",
+    "correct": "c"
+  },
+  {
+    "question": "709. Narzędzie systemów z rodziny Windows tracert jest stosowane do",
+    "correct": "a"
+  },
+  {
+    "question": "710. Aby w systemach Windows Server wykonać aktualizację dzierżawy adresów DHCP oraz rejestrację nazw związanych z systemem DNS w wierszu polecenia, należy wpisać polecenie",
+    "correct": "d"
+  },
+  {
+    "question": "711. Protokół SNMP (Simple Network Management Protocol) jest stosowany do",
+    "correct": "d"
+  },
+  {
+    "question": "712. W wyniku wykonania przedstawionych poleceń systemu Linux interfejs sieciowy eth0 otrzyma",
+    "correct": "d"
+  },
+  {
+    "question": "713. Udostępnienie linuksowych usług drukowania oraz serwera plików stacjom roboczym Windows, OS X, Linux umożliwia serwer",
+    "correct": "b"
+  },
+  {
+    "question": "714. Na którym domyślnym porcie odbywa się komunikacja protokołu ftp?",
+    "correct": "a"
+  },
+  {
+    "question": "715. Jaką rolę serwera z rodziny Windows Server należy dodać, aby serwer realizował usługi rutingu?",
+    "correct": "b"
+  },
+  {
+    "question": "716. Gdzie przechowywane są informacje o kontach użytkowników domenowych w systemach Windows Server?",
+    "correct": "a"
+  },
+  {
+    "question": "717. Który protokół warstwy aplikacji definiuje wysyłanie poczty elektronicznej?",
+    "correct": "d"
+  },
+  {
+    "question": "718. Transmisja danych typu półduplex jest transmisją",
+    "correct": "b"
+  },
+  {
+    "question": "719. Jakie zadanie realizuje protokół ARP (Address Resolution Protocol)?",
+    "correct": "a"
+  },
+  {
+    "question": "720. Które pole jest zawarte w nagłówku protokołu UDP?",
+    "correct": "d"
+  },
+  {
+    "question": "721. Gniazdo w sieciach komputerowych, jednoznacznie identyfikujące dany proces na urządzeniu, jest kombinacją",
+    "correct": "a"
+  },
+  {
+    "question": "722. Aby zapewnić jakość usługi QoS, w przełącznikach warstwy dostępu jest stosowany mechanizm",
+    "correct": "b"
+  },
+  {
+    "question": "723. Jaką funkcję realizuje usługa NAT uruchomiona na ruterze?",
+    "correct": "a"
+  },
+  {
+    "question": "724. W systemie Linux Ubuntu Server, aby zainstalować serwer DHCP należy użyć polecenia",
+    "correct": "a"
+  },
+  {
+    "question": "725. Aby móc tworzyć konta użytkowników, komputerów i innych obiektów oraz przechowywać centralnie informacje o nich, należy na serwerze Windows zainstalować rolę",
+    "correct": "b"
+  },
+  {
+    "question": "726. Podczas instalacji i konfiguracji serwera DHCP w systemach rodziny Windows Server, można dodać zastrzeżenia adresów, które określą",
+    "correct": "c"
+  },
+  {
+    "question": "727. Do przetestowania działania serwera DNS w systemach Windows Server można użyć narzędzia nslookup. Jeżeli jako argument polecenia użyje się nazwy komputera, np. nslookup host.domena.com, to nastąpi sprawdzenie",
+    "correct": "b"
+  },
+  {
+    "question": "728. Jak nazywamy atak na sieć komputerową polegający na przechwytywaniu pakietów przesyłanych w sieci?",
+    "correct": "b"
+  }
+]
